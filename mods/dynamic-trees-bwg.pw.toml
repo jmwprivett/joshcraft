@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Oh The Biomes We've Gone"
+filename = "Dynamic Trees BWG-1.20.1-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z5yJOJnS/versions/ik4Df9zc/Dynamic%20Trees%20BWG-1.20.1-1.0.9.jar"
+hash-format = "sha512"
+hash = "cf7e6c48a9bf45d79c55d64f5dadceb48d47ff927dc333e9445c809b74e4949c451509f461e1a1be83ca8171e4cfad15a69842693c3618af977b91d6dc49c5f8"
+
+[update]
+[update.modrinth]
+mod-id = "z5yJOJnS"
+version = "ik4Df9zc"
