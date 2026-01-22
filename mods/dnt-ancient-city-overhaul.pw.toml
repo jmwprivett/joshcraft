@@ -1,0 +1,13 @@
+name = "DnT Ancient City Overhaul"
+filename = "dungeons-and-taverns-ancient-city-overhaul-1 [Forge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5b4170f6f40dde1c5c7d161f606bccbe3dd2871"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4785961
+project-id = 920418

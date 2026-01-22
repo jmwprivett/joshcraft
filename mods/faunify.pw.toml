@@ -1,0 +1,13 @@
+name = "Faunify"
+filename = "faunify-forge-1.20.1-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e43ebe5fa6db786594cadd1860224ac2b8ff9d20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7292139
+project-id = 1123041

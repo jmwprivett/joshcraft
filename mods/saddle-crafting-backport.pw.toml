@@ -1,0 +1,13 @@
+name = "Saddle Crafting Backport"
+filename = "saddle-crafting-backport-v1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b06a4444c6aa5630a77903e04d4920521cc21a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6526912
+project-id = 1265135

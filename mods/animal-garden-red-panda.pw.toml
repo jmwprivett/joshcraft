@@ -1,0 +1,13 @@
+name = "Animal Garden - Red Panda"
+filename = "animalgarden-redpanda-1.0.0-forge-1.20.1-47.4.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7e1df6f601365b645cda00cfcc36d49b93ff5ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7032420
+project-id = 1353070

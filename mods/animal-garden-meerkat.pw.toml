@@ -1,0 +1,13 @@
+name = "Animal Garden - Meerkat"
+filename = "animalgarden-meerkat-1.0.1-forge-1.20.1-47.3.33.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9920193ea2a151d6669341134e82890945f965e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6218007
+project-id = 1205244

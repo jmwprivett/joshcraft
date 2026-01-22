@@ -1,0 +1,13 @@
+name = "Spawn Animations [Server] [Fabric/Quilt/Forge/NeoForge]"
+filename = "spawnanimations-v1.11.2-mc1.17-1.21.5-mod.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d3e24c541f2981f5f93a315d96299d00896cc9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7091823
+project-id = 1223719

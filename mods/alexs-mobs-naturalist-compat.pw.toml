@@ -1,0 +1,13 @@
+name = "Alex's Mobs - Naturalist Compat"
+filename = "Compat_AlexsMobs-Naturalist.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b94eb0e5e73b41dea689b75fe17018c96628c649"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6915956
+project-id = 1150228

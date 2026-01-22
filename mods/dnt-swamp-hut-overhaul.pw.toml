@@ -1,0 +1,13 @@
+name = "DnT Swamp Hut Overhaul"
+filename = "dungeons-and-taverns-swamp-hut-rework-1 [Forge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2577adcc670427c31eda4b10cf36213323ca4d85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4786042
+project-id = 920439

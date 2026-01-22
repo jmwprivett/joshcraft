@@ -1,0 +1,13 @@
+name = "Elemental Creepers OG"
+filename = "elementalcreepers-4.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6be60e35c7a68bddbe88a47db8f2edc150c7da4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5342628
+project-id = 1016149
