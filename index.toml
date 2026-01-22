@@ -266,8 +266,8 @@ hash = "ea969a2c6d77b5e7c8bd8ab8fe52c0c46de676a9cc517f014965699d90c5ed92"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-bwg.pw.toml"
-hash = "9c9d3c7d84db036a4e45d6249f8212a78618d5ea8a3d33ccc87b51cba1237dec"
+file = "mods/dynamic-trees-biomes-o-plenty.pw.toml"
+hash = "dfbe6bbfb2376cb1e0ffe1da8905c53257c85cd84f509027e56bef07574d0d1a"
 metafile = true
 
 [[files]]
