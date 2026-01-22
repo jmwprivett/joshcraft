@@ -541,11 +541,6 @@ hash = "7a4b8e290aa6cd5602482fce48c71a2822a2380f35a586cd7444b3f1680629e8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/enchant-icons-reforged.pw.toml"
-hash = "e3dacdf905092e87829d170c822ad99304f78df786457ea8dd5732bbfd0b42af"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
