@@ -276,6 +276,11 @@ hash = "284088caaaec001ee13e2ccdbed7b0433d573bdd79c92764af6928ba0df0a703"
 metafile = true
 
 [[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "005b90b699cbbf46d01cc7af36d30ef04b80c10f43337d01186a59cae11401ad"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
@@ -427,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "d83920425903922fce4ca45c07622f1d307b0f47f21b2f21899c426feedce8b7"
+hash = "4b4d83e721458f356072f309058dbdcc5ab490dd41b53764ec6305dcf30a6ed6"
 metafile = true
 
 [[files]]

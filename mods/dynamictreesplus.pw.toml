@@ -1,0 +1,13 @@
+name = "Dynamic Trees +"
+filename = "DynamicTreesPlus-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qaO9Dqpu/versions/MzWoA26x/DynamicTreesPlus-1.20.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "56130a461fa4ce0f5479f561bb68757a7f6cc5a3447c975a49146e984fdc48373dc1e35104d125aea56e9505afa3dde9f16fa4cb722c8d502e28424136c7f1aa"
+
+[update]
+[update.modrinth]
+mod-id = "qaO9Dqpu"
+version = "MzWoA26x"
