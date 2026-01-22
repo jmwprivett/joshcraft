@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
@@ -548,11 +538,6 @@ metafile = true
 [[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "7a4b8e290aa6cd5602482fce48c71a2822a2380f35a586cd7444b3f1680629e8"
-metafile = true
-
-[[files]]
-file = "potato-shaders.pw.toml"
-hash = "7b7529037bc035bc88b5aa5e815d4aad1c2ed4abf8365621ceb224a966bc198f"
 metafile = true
 
 [[files]]
