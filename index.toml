@@ -6,6 +6,11 @@ hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
 
 [[files]]
+file = "mods/aether-enhanced-extinguishing.pw.toml"
+hash = "8e7f2282ce70b5a82bfe05304c30e71d6d3c26a29a75d6e1f31e85af8b86eb2e"
+metafile = true
+
+[[files]]
 file = "mods/aether-lost-content.pw.toml"
 hash = "93dbcd5448e94be7bf618788f380773a1dd95fff06c802b52d7bf85163a66e44"
 metafile = true
