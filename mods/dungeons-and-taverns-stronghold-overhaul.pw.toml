@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Stronghold Overhaul"
+filename = "dungeons-and-taverns-stronghold-rework-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYocd2LE/versions/XcN77mjg/dungeons-and-taverns-stronghold-rework-1.jar"
+hash-format = "sha512"
+hash = "36609101925384bc339483680fa260a7f25424b1cd6e3e9477199797a41687415d9bab1c7b2192c1b9a3216b24d98519f6ad6c5fea9f57312971546847796443"
+
+[update]
+[update.modrinth]
+mod-id = "rYocd2LE"
+version = "XcN77mjg"

@@ -3,11 +3,11 @@ filename = "mobs_of_mythology-forge-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "71c25dc17a243eed3e7740d397304bdea9883198"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/avrKhvsK/versions/icphyvSl/mobs_of_mythology-forge-3.0.0.jar"
+hash-format = "sha512"
+hash = "d1e29f092c390c9758abc0b3f066d5af5c248b9e5b10808e16c0d75144ecdfda33e9fb33d49b55b05da276955db2fe33db5857313427d657e0965ee501d32d20"
 
 [update]
-[update.curseforge]
-file-id = 7440040
-project-id = 699989
+[update.modrinth]
+mod-id = "avrKhvsK"
+version = "icphyvSl"

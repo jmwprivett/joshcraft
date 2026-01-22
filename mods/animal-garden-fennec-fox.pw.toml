@@ -3,11 +3,11 @@ filename = "animalgarden-fennecfox-1.0.1-forge-1.20.1-47.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0d2c2cf5c7e49be4cef76b1f8b961d852f5ff43d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BRO0Qo3Y/versions/CPYqe1da/animalgarden-fennecfox-1.0.1-forge-1.20.1-47.4.10.jar"
+hash-format = "sha512"
+hash = "3a8dcc86536b443ffbe34afe0015e3f0dad599f8409400d71802a7d56910b635e29fa80d368acf89bcd2800ec9b772ad3086f22e27e39221345dedf403c9c779"
 
 [update]
-[update.curseforge]
-file-id = 7283073
-project-id = 1389805
+[update.modrinth]
+mod-id = "BRO0Qo3Y"
+version = "CPYqe1da"

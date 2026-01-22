@@ -3,11 +3,11 @@ filename = "animalgarden-prairiedog-1.0.0-forge-1.20.4-49.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "97ce24c469087fa4ac3ab87ee3973512b7b29797"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vdm5Eivp/versions/UbB6hmrp/animalgarden-prairiedog-1.0.0-forge-1.20.4-49.2.4.jar"
+hash-format = "sha512"
+hash = "bd36df2cdfef377e4489d09cefc0a566c3837b6a026890fadd086f24ea8a5279091e501bf99480a37ce471a284723b872157d78100fd86771e3969090d7c2ab5"
 
 [update]
-[update.curseforge]
-file-id = 7412478
-project-id = 1419826
+[update.modrinth]
+mod-id = "vdm5Eivp"
+version = "UbB6hmrp"

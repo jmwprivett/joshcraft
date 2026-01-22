@@ -3,11 +3,11 @@ filename = "faunify-forge-1.20.1-1.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e43ebe5fa6db786594cadd1860224ac2b8ff9d20"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lqLPTalI/versions/mmIQxK7e/faunify-forge-1.20.1-1.2.6.jar"
+hash-format = "sha512"
+hash = "1e25df286cf22c932c30cc1fe228fd44202d34869ab087a8a30b5d990bb8cf87d657a206e54f114bc01259f38bbb645e7203362bf03af958b46137c9d763ecbe"
 
 [update]
-[update.curseforge]
-file-id = 7292139
-project-id = 1123041
+[update.modrinth]
+mod-id = "lqLPTalI"
+version = "mmIQxK7e"

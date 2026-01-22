@@ -3,11 +3,11 @@ filename = "animalgarden-whiterhinoceros-1.0.0-forge-1.20.1-47.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4e5c2c5aa8e73ae5d8b55309625c6ec6e0967135"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LTMmsfd4/versions/hTaqP2dm/animalgarden-whiterhinoceros-1.0.0-forge-1.20.1-47.4.10.jar"
+hash-format = "sha512"
+hash = "d3e3247c54caf24d79fe222488fbd469faed5385487541ceb3c99a8d49ec6e88e53a93299617c0edf5b47bc4679e213712fc8c79f90f994d36d9aa39da989d78"
 
 [update]
-[update.curseforge]
-file-id = 7156174
-project-id = 1373457
+[update.modrinth]
+mod-id = "LTMmsfd4"
+version = "hTaqP2dm"

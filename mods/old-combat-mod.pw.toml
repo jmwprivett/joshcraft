@@ -1,13 +1,13 @@
 name = "Old Combat Mod"
 filename = "OldCombatMod_1.20.X.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "1518b487f27ff114049fda91262af4d30e90b4e0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dZ1APLkO/versions/jle2Aj39/OldCombatMod_1.20.X.jar"
+hash-format = "sha512"
+hash = "9542c50a5bdcba08fa0763c3785f61553a14bcb625916dd66866df1b3c44a7693ffa8bd198e97d73f37deaefb505bc3ae4af899715d786f2e2011f7c88d81148"
 
 [update]
-[update.curseforge]
-file-id = 4763862
-project-id = 430735
+[update.modrinth]
+mod-id = "dZ1APLkO"
+version = "jle2Aj39"

@@ -1,0 +1,13 @@
+name = "Enchant Icons Reforged"
+filename = "Enchant Icons Reforged.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VuLY6vrK/versions/vORxrdBb/Enchant%20Icons%20Reforged.zip"
+hash-format = "sha512"
+hash = "efae5919986810393e4cc9cd7baa6411d822036781b30c21f967497f4ec7ac72a865e070f0f8c174144dbb823d5f43c278bb584fedea6a36c171dbd1cb2fbd01"
+
+[update]
+[update.modrinth]
+mod-id = "VuLY6vrK"
+version = "vORxrdBb"

@@ -1,13 +1,13 @@
 name = "Easy Disenchanting"
-filename = "easydisenchanting-forge-1.0.1-1.20.1.jar"
+filename = "easydisenchanting-forge-1.0.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "760bd5ca327c326c4c449bcdaf2bad5d9232a879"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oytHeCkq/versions/8cH3J0bX/easydisenchanting-forge-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "1171da73c49923e535db6aa3247ea960ac50fe182ed66de4f86e87d708e1df262fc7ce2c8c7d55cdbdf21e4dce724fe45c228f28fd9987a86b76a82b6311eeaf"
 
 [update]
-[update.curseforge]
-file-id = 6537108
-project-id = 1266689
+[update.modrinth]
+mod-id = "oytHeCkq"
+version = "8cH3J0bX"

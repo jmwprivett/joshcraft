@@ -3,11 +3,11 @@ filename = "animalgarden-sugargilder-1.0.0-forge-1.20.1-47.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9f1cf2afada7483936b6fa4970d488ca3d8e1f69"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WktWffF9/versions/KCswXxFv/animalgarden-sugargilder-1.0.0-forge-1.20.1-47.4.10.jar"
+hash-format = "sha512"
+hash = "aef127f7b7ab9b6147ec82998bbd40a0cff247809b911e27ab10ebe82291ba9d9a126eb3598056b728a083cf4161937630302799ba3e38f79f3775038b79c86a"
 
 [update]
-[update.curseforge]
-file-id = 7203901
-project-id = 1381696
+[update.modrinth]
+mod-id = "WktWffF9"
+version = "KCswXxFv"

@@ -3,11 +3,11 @@ filename = "animalgarden-seaotter-1.1.0-forge-1.20.1-47.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2e1f9916acad262c874c1b9a5d05f6de1909bffb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/PFr3jBbA/versions/lW88BCSg/animalgarden-seaotter-1.1.0-forge-1.20.1-47.4.10.jar"
+hash-format = "sha512"
+hash = "ad4db5a74b560b6f20f245e8a4be0100653aaf33e01b19a8718b4db8d42c7801418d23de75e8fced35a7f67ace185cb48893f372b9a60cc7f7fefc0f175f9cac"
 
 [update]
-[update.curseforge]
-file-id = 7228517
-project-id = 1377848
+[update.modrinth]
+mod-id = "PFr3jBbA"
+version = "lW88BCSg"

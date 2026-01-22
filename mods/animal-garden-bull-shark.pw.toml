@@ -3,11 +3,11 @@ filename = "animalgarden-bullshark-1.1.0-forge-1.20.1-47.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0271660dd73524f4d7ca7aef70ec14ba915540a9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/d83mmflQ/versions/9aoDs8OD/animalgarden-bullshark-1.1.0-forge-1.20.1-47.4.10.jar"
+hash-format = "sha512"
+hash = "52917f667b393cfff766fd8355855fb39ba55cfbba4ea5a75deaf2f18d9af7130ad7e8835637cfd9b212e84a901d85c6ca255374623494f60727625b12ba9365"
 
 [update]
-[update.curseforge]
-file-id = 7230684
-project-id = 1363244
+[update.modrinth]
+mod-id = "d83mmflQ"
+version = "9aoDs8OD"

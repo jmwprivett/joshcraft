@@ -3,11 +3,11 @@ filename = "ecologics-forge-1.20.1-2.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f245e903af1d92fd8f34c921620e1eaf0d4a02c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NCKpPR0Z/versions/lNxRTxLS/ecologics-forge-1.20.1-2.2.4.jar"
+hash-format = "sha512"
+hash = "368e84a712c23461ea8d525260a5d4e1d150db2e279ba7c0874ec418ef99fa5f3094f9838a658b5976a18a1a1251edcdc21c607834a2cee01a38c477e2078021"
 
 [update]
-[update.curseforge]
-file-id = 7479472
-project-id = 570463
+[update.modrinth]
+mod-id = "NCKpPR0Z"
+version = "lNxRTxLS"

@@ -3,11 +3,11 @@ filename = "aquariuslibs-1.0.0-forge-1.20.1-47.2.30.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef7f0381722d7455efc6e67b5f05a49a78261db6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KkHnyaL6/versions/oY4Cybcw/aquariuslibs-1.0.0-forge-1.20.1-47.2.30.jar"
+hash-format = "sha512"
+hash = "ac1d9a7ad4155d970a37ecfbeefc3d5b1f328dc279d475fadb19c4e78dbcf1ba0b766ab2f3e96db822f43fe7b7d488eb3f057850ed3f5e9cd61a5f00bc756f38"
 
 [update]
-[update.curseforge]
-file-id = 7464124
-project-id = 1412710
+[update.modrinth]
+mod-id = "KkHnyaL6"
+version = "oY4Cybcw"

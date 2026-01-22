@@ -3,11 +3,11 @@ filename = "animal-garden-mouse-1.0.3-forge-1.20.1-47.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6565274e9ecbe870c90754b53fb6d1984632de4c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Mm8Kzdc6/versions/cAomg7YT/animal-garden-mouse-1.0.3-forge-1.20.1-47.4.0.jar"
+hash-format = "sha512"
+hash = "4b4083a53d1813e5951eef20c842d2e098eac0cfc87adaa215b0f7a96dc00351ec45ba08e9e0e4a891552a8b5e08cba7e5a76f1a56e1574ee087d5c107932ab2"
 
 [update]
-[update.curseforge]
-file-id = 6516829
-project-id = 1198304
+[update.modrinth]
+mod-id = "Mm8Kzdc6"
+version = "cAomg7YT"

@@ -1,13 +1,13 @@
 name = "Euphoria Patches"
 filename = "EuphoriaPatcher-1.7.8-r5.6.1-forge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "641fe3d45531371214d3e8601cb22188aa9bc203"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/28xfmkAk/EuphoriaPatcher-1.7.8-r5.6.1-forge.jar"
+hash-format = "sha512"
+hash = "9689f165b13884573737f60479a7dbfc9e6dde84106532c1faf6f0a7f2126506f67336e7fe3ae616ea18a012172ece6e75396513d92cc20b6db7431b6aefe6b2"
 
 [update]
-[update.curseforge]
-file-id = 7236772
-project-id = 915902
+[update.modrinth]
+mod-id = "4H6sumDB"
+version = "28xfmkAk"

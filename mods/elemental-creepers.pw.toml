@@ -1,0 +1,13 @@
+name = "Elemental Creepers"
+filename = "elementalcreepers-4.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jEuhihEC/versions/kJ4MKows/elementalcreepers-4.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "4c9a93405dbfb6662440cb6874485733f15c4d6ad0657d37257cc2d649643136a15c8d7bfe21677b2a5ad41c26e1e5bdfc064681499e83b7e80795b497fee546"
+
+[update]
+[update.modrinth]
+mod-id = "jEuhihEC"
+version = "kJ4MKows"

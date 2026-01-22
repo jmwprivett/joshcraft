@@ -3,11 +3,11 @@ filename = "txnilib-forge-1.0.24-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a1e16b7d61f0f16a162d429ee1eab9b4e3eeb9ef"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/kQ8qnDHA/txnilib-forge-1.0.24-1.20.1.jar"
+hash-format = "sha512"
+hash = "06881ae202d9903909c34a1742f38308f7a04e4ed9c5eb3bd09441920d2666c6f4ee54b38ed3688b612ade5a06d2a35b45fad8a232c4e8f7f6bf527f082f6bc9"
 
 [update]
-[update.curseforge]
-file-id = 6533724
-project-id = 1104882
+[update.modrinth]
+mod-id = "vBbPDuOs"
+version = "kQ8qnDHA"

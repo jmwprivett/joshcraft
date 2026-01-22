@@ -3,11 +3,11 @@ filename = "animalgarden-spottedhyena-1.0.0-forge-1.20.1-47.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "07a4e4bad3ed843f0b41421162f4f1ef276e9668"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/xFPZRPlU/versions/yzdB2DxF/animalgarden-spottedhyena-1.0.0-forge-1.20.1-47.4.10.jar"
+hash-format = "sha512"
+hash = "45192ec452810f4b4bb72f03281acb424b67a238dd2e0b828bc9c1a038b0d29cf94b8bf32cdde205c0d82a868672922a03aba77c985cc58ad40d25fbcc5de813"
 
 [update]
-[update.curseforge]
-file-id = 7120249
-project-id = 1367094
+[update.modrinth]
+mod-id = "xFPZRPlU"
+version = "yzdB2DxF"

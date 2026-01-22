@@ -3,11 +3,11 @@ filename = "animalgarden-manatee-1.0.0-forge-1.20.1-47.4.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6ac313030a2b5ca4d1ef3291cddfdf1bf294a1b9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XzTcXQrj/versions/xVjXZGyW/animalgarden-manatee-1.0.0-forge-1.20.1-47.4.9.jar"
+hash-format = "sha512"
+hash = "7d2cc8e0577891e5c3ff7e0b5b23cfdf9295568d945e4ae5546c3ae24cdb79e0922d4d302684fdd32717798fe0e5bc4f58d4d6e8adee97e64294bb8b929bba0d"
 
 [update]
-[update.curseforge]
-file-id = 7042105
-project-id = 1354749
+[update.modrinth]
+mod-id = "XzTcXQrj"
+version = "xVjXZGyW"

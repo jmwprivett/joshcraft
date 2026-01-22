@@ -3,11 +3,11 @@ filename = "Compat_AlexsMobs-Naturalist.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b94eb0e5e73b41dea689b75fe17018c96628c649"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DuiEs193/versions/67ALlBho/Compat_AlexsMobs-Naturalist.jar"
+hash-format = "sha512"
+hash = "76f014fea734855cee2d235e9605395964a08b362edbef7a02d5003a3b5acdbc49323fdd22dddc84d125133a91fb24d26941fdd1eb602ddc6a188ec2143f5597"
 
 [update]
-[update.curseforge]
-file-id = 6915956
-project-id = 1150228
+[update.modrinth]
+mod-id = "DuiEs193"
+version = "67ALlBho"

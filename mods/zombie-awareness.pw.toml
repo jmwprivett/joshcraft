@@ -3,11 +3,11 @@ filename = "zombieawareness-1.20.1-1.13.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "173c30c8918da57be9398b3687ea19a81455c2c1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/mMTOWOaA/versions/vmo9rLxO/zombieawareness-1.20.1-1.13.1.jar"
+hash-format = "sha512"
+hash = "16f33ffaa52c208c4239a35bc2ce268e0b56bec81d37a6120aa7708e64d806399c115d54d915f03c88bf9e44fdea01b0dc201816cd0ffd2f96601ae2ba3db337"
 
 [update]
-[update.curseforge]
-file-id = 5096285
-project-id = 237754
+[update.modrinth]
+mod-id = "mMTOWOaA"
+version = "vmo9rLxO"

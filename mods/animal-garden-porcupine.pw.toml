@@ -3,11 +3,11 @@ filename = "animalgarden_porcupine-1.0.1-forge-1.20.1-47.3.22.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "33f9018b19f7713994bb0a6c9c46c17239cc6567"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/m0TRBPCH/versions/9HEAwXmY/animalgarden_porcupine-1.0.1-forge-1.20.1-47.3.22.jar"
+hash-format = "sha512"
+hash = "82132e4e62d5aaccff0eb2c95dd0cee3a69c08ec34843523f1ddbc17a9a96975aa20fe1bd63bf075dfcd458b7c25d8222b3c687b031beff93a98923d8c89164c"
 
 [update]
-[update.curseforge]
-file-id = 6060352
-project-id = 1171145
+[update.modrinth]
+mod-id = "m0TRBPCH"
+version = "9HEAwXmY"

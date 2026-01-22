@@ -3,11 +3,11 @@ filename = "animalgarden-redpanda-1.0.0-forge-1.20.1-47.4.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b7e1df6f601365b645cda00cfcc36d49b93ff5ed"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7mT3pD13/versions/WmXxVnvB/animalgarden-redpanda-1.0.0-forge-1.20.1-47.4.9.jar"
+hash-format = "sha512"
+hash = "7318161d7660759225345743b35ccc1cbdcf0a2458c818954ef47983bf6a3b1ce7a6cb8fbff336c4c3346dbf9931222b70cbc9e17f884425c801acd00602248f"
 
 [update]
-[update.curseforge]
-file-id = 7032420
-project-id = 1353070
+[update.modrinth]
+mod-id = "7mT3pD13"
+version = "WmXxVnvB"

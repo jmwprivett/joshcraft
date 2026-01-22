@@ -3,11 +3,11 @@ filename = "Oh-The-Biomes-Weve-Gone-Forge-1.7.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "168e2c7f7105bc578e05f0a347856438b5d9f4a6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/ZxaFRpeo/Oh-The-Biomes-Weve-Gone-Forge-1.7.4.jar"
+hash-format = "sha512"
+hash = "b9d9b83e10ee69bf530162875dcb2e4e5b84e87ed456f2b0673fc681740617044ddb0866aac5f8a8ded61a8bf45f43d18ef931514cc293a0e7969f73dcb3623a"
 
 [update]
-[update.curseforge]
-file-id = 7386695
-project-id = 1070751
+[update.modrinth]
+mod-id = "NTi7d3Xc"
+version = "ZxaFRpeo"

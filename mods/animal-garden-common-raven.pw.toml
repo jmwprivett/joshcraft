@@ -3,11 +3,11 @@ filename = "animalgarden-commonraven-1.0.0-forge-1.20.1-47.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "59e3f5316cf929833af4a6a2ca7806c614e1ae5a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EzyL5Shd/versions/83j1uxUT/animalgarden-commonraven-1.0.0-forge-1.20.1-47.4.10.jar"
+hash-format = "sha512"
+hash = "5e4876a64941f74086e8ffba7152e8a41a605305cf93c67213f751965d0fb564ddebffebb390674da49b233f597454d0e24d864d7af32922845d950e83d468c9"
 
 [update]
-[update.curseforge]
-file-id = 7141102
-project-id = 1370539
+[update.modrinth]
+mod-id = "EzyL5Shd"
+version = "83j1uxUT"

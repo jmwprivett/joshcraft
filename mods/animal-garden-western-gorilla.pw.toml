@@ -3,11 +3,11 @@ filename = "animalgarden-westerngorilla-1.0.0-forge-1.20.1-47.4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1513930d75659d564400c3bade32fa2c32768ee9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OezYkPKQ/versions/1Y19NmjG/animalgarden-westerngorilla-1.0.0-forge-1.20.1-47.4.10.jar"
+hash-format = "sha512"
+hash = "f9311d8fdbbc3e742a7bdabb51d677232972d48e963dc45a51fa3ee72313d143b2ae8116ced3daac771426abc47eafc8e7475ad5bf7640963cc345f995bb46c1"
 
 [update]
-[update.curseforge]
-file-id = 7284150
-project-id = 1396258
+[update.modrinth]
+mod-id = "OezYkPKQ"
+version = "1Y19NmjG"
