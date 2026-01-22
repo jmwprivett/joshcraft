@@ -381,6 +381,11 @@ hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "01c0d7488838d7ace6360fde1d6bdbcd5066954571e963af4f10cd39669aa6e4"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
