@@ -541,11 +541,6 @@ hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
 metafile = true
 
 [[files]]
-file = "mods/villager-leads-fabric-forge.pw.toml"
-hash = "2500c9b4417c11b75c0c3409ec86aaaced2d3b581a4dfed4b028d274b022388a"
-metafile = true
-
-[[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "736738062381bec4d55b726546b4fab7443bea0e5983e8af65b90c56da72da06"
 metafile = true
