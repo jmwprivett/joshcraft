@@ -1,0 +1,13 @@
+name = "lapis lazuli armor and tools"
+filename = "lapis lazuli mod 1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6d3fab587ec2ff1b9775f2e97f8957ee542f97a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4704137
+project-id = 891344
