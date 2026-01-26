@@ -1,0 +1,13 @@
+name = "Toggle Enchantments"
+filename = "togenc-forge-1.20.x-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OzKqGHgZ/versions/VxsIGLmM/togenc-forge-1.20.x-v1.0.jar"
+hash-format = "sha512"
+hash = "4e74d6ded31bf3ef95030a1e88ee7707eeca01d301872fabceee87ee96b2da1fa271e427e498bf167a4aab82913f662325f149bfae1820f8114032b8b1d54c27"
+
+[update]
+[update.modrinth]
+mod-id = "OzKqGHgZ"
+version = "VxsIGLmM"
