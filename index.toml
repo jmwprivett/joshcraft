@@ -281,6 +281,11 @@ hash = "2edd772e45018c5ca53bf3f620a883b88dd59edb54e24bd0ff656bfc8f07a026"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "a65613e31ab6db637264a3988a390af659093d349b9a881c79222091461490d4"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "1859de5f388c57e08412a9f9ed2b9069ed8078a963264c0d66cb7eba13938538"
 metafile = true
@@ -403,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/mobs-of-mythology.pw.toml"
 hash = "1edb87c9e4f5a904e010df3d83d488519f622be84bc3d724aac1c8264749f36f"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
 metafile = true
 
 [[files]]
