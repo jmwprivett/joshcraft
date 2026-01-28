@@ -570,11 +570,6 @@ hash = "dd9c8d955749815ea13a1e500711926fd631bab441ceda04994ac84d1cdd52a6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/lower-shield.pw.toml"
-hash = "233c2adfcee95b2c88799de5b21cb65c0749fd3ecc48cc33a2ec63c79d849f49"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
