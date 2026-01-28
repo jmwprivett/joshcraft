@@ -5,10 +5,6 @@ file = "config/alexscaves-client.toml"
 hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
-file = "config/resourcepackoverrides.json"
-hash = "6db5a502384e70dfccbfb7d5b1d2263c79a32f4f653a1fc992dd6e885f0fbb50"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
