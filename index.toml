@@ -570,6 +570,11 @@ hash = "dd9c8d955749815ea13a1e500711926fd631bab441ceda04994ac84d1cdd52a6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leather-armor.pw.toml"
+hash = "5f10a3d1ce18b7d287b3bd5bb4c687399bd4f287e546aeb5891d6f6c252da6b2"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true

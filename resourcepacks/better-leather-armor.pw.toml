@@ -1,0 +1,13 @@
+name = "Better Leather Armor"
+filename = "better-leather-armor_1.20-1.21.11.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "195a261987979771446d2f470a029a2a50199818"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7364731
+project-id = 443776
