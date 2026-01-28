@@ -1,0 +1,13 @@
+name = "Smaller side shield"
+filename = "Side Shield.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bec3a9fe3607eddde5e321a870e9efb0c14ea3e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6843020
+project-id = 1319976

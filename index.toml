@@ -584,6 +584,11 @@ hash = "5f10a3d1ce18b7d287b3bd5bb4c687399bd4f287e546aeb5891d6f6c252da6b2"
 metafile = true
 
 [[files]]
+file = "resourcepacks/smaller-side-shield.pw.toml"
+hash = "2e255cc1498beebe7a810b7fe480b1151b3eef989f2a387dda93a04b5b4111dc"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
