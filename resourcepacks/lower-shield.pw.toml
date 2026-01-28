@@ -1,0 +1,13 @@
+name = "Lower Shield - Enhanced Combat Visibility"
+filename = "Lower Shield.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9f51386e4bcac7f402c15ea9fd4194c05b6dfc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6089826
+project-id = 1176709
