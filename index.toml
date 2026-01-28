@@ -6,7 +6,7 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1a161302186bee7c0f637303c439ff68ff3f6766efc28d692e4cccb2614587a2"
+hash = "2edf67757c102780a4ed3c3cb060d7dad42a23555a0821e921553da97521808e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -489,11 +489,6 @@ hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
 metafile = true
 
 [[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "da5f20f5a128e6a8a4fd09382986737edad311803106ca45e0a5dc4b97d2565b"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
@@ -576,16 +571,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "dd9c8d955749815ea13a1e500711926fd631bab441ceda04994ac84d1cdd52a6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-leather-armor.pw.toml"
-hash = "5f10a3d1ce18b7d287b3bd5bb4c687399bd4f287e546aeb5891d6f6c252da6b2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/smaller-side-shield.pw.toml"
-hash = "2e255cc1498beebe7a810b7fe480b1151b3eef989f2a387dda93a04b5b4111dc"
 metafile = true
 
 [[files]]
