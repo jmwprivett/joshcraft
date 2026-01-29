@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexscaves-client.toml"
-hash = "cf1750e7d1c9e5190f13889781305c00d9f3966653b7dd6fd6fc265ae0065da6"
+hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/fml.toml"
-hash = "30c905020cf7b89b8c258376b10140d8d3801a11061fd61dfcb9be641ccd8eb5"
+hash = "9e3b66488aaae2e226825b217cb9f09295f32d8100f2ee89f9b3d22872a33824"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -19,6 +19,11 @@ hash = "f65e3f94df1eb38fb4502b8e1cf014937672c95e5bbbc80b67777e22e315958b"
 [[files]]
 file = "config/simple-custom-early-loading/mojang_bg.png"
 hash = "6ab2b9a5357c80bd8ec28f0bd5b238a2054816b3d8a21ffc99f158934dcbedb7"
+
+[[files]]
+file = "makeup-ultra-fast-shader.pw.toml"
+hash = "e569821e398ed298d85515bd362828e622185e25abbc7d3faa3ebef0f81359c7"
+metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -541,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/smart-completion.pw.toml"
-hash = "9f17bf8139852fe4c77b10a4d5d71d7d738fb38ca63f70f3c97f78a05f1917b5"
+hash = "3742530c3ecf9a972c8f8af4c348b45cd89fee5415773a0773cea2ba76d15546"
 metafile = true
 
 [[files]]
