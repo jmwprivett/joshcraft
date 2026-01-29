@@ -5,6 +5,10 @@ file = "config/alexscaves-client.toml"
 hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
+file = "config/fml.toml"
+hash = "9e3b66488aaae2e226825b217cb9f09295f32d8100f2ee89f9b3d22872a33824"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "2edf67757c102780a4ed3c3cb060d7dad42a23555a0821e921553da97521808e"
 
@@ -355,10 +359,6 @@ metafile = true
 file = "mods/find-my-friends-port.pw.toml"
 hash = "ae189b9892d1eef79f5f2364b95c27e5f3a137d6f6a42ea30511f5277d9af459"
 metafile = true
-
-[[files]]
-file = "mods/fml.toml"
-hash = "9e3b66488aaae2e226825b217cb9f09295f32d8100f2ee89f9b3d22872a33824"
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
