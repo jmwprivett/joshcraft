@@ -450,6 +450,11 @@ file = "mods/mucklogo-1.0.0.jar"
 hash = "d7cb727fe6cb96d556a270b3ac0b6f19bb5ee33779659f2f57d99fd9b4b3e646"
 
 [[files]]
+file = "mods/mucklogo.pw.toml"
+hash = "f75b45427743ee19f5027d82854fb387b9da333ef7e36d02f9825069413ff2a5"
+metafile = true
+
+[[files]]
 file = "mods/name-tag-tweaks.pw.toml"
 hash = "b645ddacefcf095b97166479c1be91907627fd844d40fd333a96611961f842bb"
 metafile = true
