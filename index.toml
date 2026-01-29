@@ -21,11 +21,6 @@ file = "config/simple-custom-early-loading/mojang_bg.png"
 hash = "6ab2b9a5357c80bd8ec28f0bd5b238a2054816b3d8a21ffc99f158934dcbedb7"
 
 [[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "e569821e398ed298d85515bd362828e622185e25abbc7d3faa3ebef0f81359c7"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
@@ -622,6 +617,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "e569821e398ed298d85515bd362828e622185e25abbc7d3faa3ebef0f81359c7"
 metafile = true
 
 [[files]]
