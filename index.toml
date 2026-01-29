@@ -244,11 +244,6 @@ hash = "bfd2911d1fc7136f92be93d4e3081b85f30109373ac640fbac2e3b3896d709f2"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "9de8687c9493b7809be2d236d4b2456b5866b1586aa98b729c8d0ef7d4c25117"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
 metafile = true
@@ -329,11 +324,6 @@ hash = "2db3a1221517a6d4344b7359463d115461844f12b001edd8d19395eecc12a7f3"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "fa9aa329bdbefc9430cdc17bf44456c278eb3a3632956b472f71f97df6c2f9a4"
-metafile = true
-
-[[files]]
 file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
 hash = "94231b261ec4dfbed08035271ecdf099a245cae486a1bed57252a5f081e117e3"
 metafile = true
@@ -401,11 +391,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
-metafile = true
-
-[[files]]
-file = "mods/konkrete.pw.toml"
-hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
 metafile = true
 
 [[files]]
