@@ -514,6 +514,11 @@ hash = "b53f840f4a7f8c1da293e1a6891c6f2fd58048e76cc14609ba0e6f0be6628bcf"
 metafile = true
 
 [[files]]
+file = "mods/simple-custom-early-loading.pw.toml"
+hash = "0690c55cf4f6cfe557f926a8b78327f6f63448885cac13e590c43a0ae996dee4"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
