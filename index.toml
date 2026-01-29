@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexscaves-client.toml"
-hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
+hash = "cf1750e7d1c9e5190f13889781305c00d9f3966653b7dd6fd6fc265ae0065da6"
 
 [[files]]
 file = "config/fml.toml"
-hash = "9e3b66488aaae2e226825b217cb9f09295f32d8100f2ee89f9b3d22872a33824"
+hash = "30c905020cf7b89b8c258376b10140d8d3801a11061fd61dfcb9be641ccd8eb5"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
