@@ -1,0 +1,13 @@
+name = "Smart Completion"
+filename = "smartcompletion-1.20.1-forge-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3f22c536f57e92f75d013ec1dca7d81492ac88c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5091537
+project-id = 782653
