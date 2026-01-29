@@ -357,6 +357,10 @@ hash = "ae189b9892d1eef79f5f2364b95c27e5f3a137d6f6a42ea30511f5277d9af459"
 metafile = true
 
 [[files]]
+file = "mods/fml.toml"
+hash = "9e3b66488aaae2e226825b217cb9f09295f32d8100f2ee89f9b3d22872a33824"
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
