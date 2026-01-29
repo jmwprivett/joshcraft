@@ -5,6 +5,10 @@ file = "config/alexscaves-client.toml"
 hash = "cf1750e7d1c9e5190f13889781305c00d9f3966653b7dd6fd6fc265ae0065da6"
 
 [[files]]
+file = "config/fml.toml"
+hash = "30c905020cf7b89b8c258376b10140d8d3801a11061fd61dfcb9be641ccd8eb5"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "2edf67757c102780a4ed3c3cb060d7dad42a23555a0821e921553da97521808e"
 
