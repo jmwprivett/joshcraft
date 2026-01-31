@@ -32,4 +32,3 @@
 [audio]
 	#whether nuclear explosions briefly muffle other sounds.
 	nuclear_bomb_muffles_sounds = true
-
