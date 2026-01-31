@@ -1,14 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/alexcavesconfig.pw.toml"
-hash = "c8b02ade45b05165977fff128f2a549534670dafa15c1bfd556c6985c65b9293"
-metafile = true
+file = "config/alexscaves-client.toml"
+hash = "8f063ba9b9fe3f2e3bce9cb2b5e806ee1d29dfbfdb5de96987219e7b20f6aaf9"
 
 [[files]]
-file = "config/fmlconfig.pw.toml"
-hash = "7452c99bff354ebf2bbf913d43f10f1d38ff88d747797c67f11c57f97ee70fd9"
-metafile = true
+file = "config/fml.toml"
+hash = "93bad02230893b5667229acafd7a755c438d85ad0230f54e68491a1993e2a24d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"

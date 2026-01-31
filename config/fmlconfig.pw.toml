@@ -1,8 +1,0 @@
-name = "fmlconfig"
-filename = "fml.toml"
-side = "both"
-
-[download]
-url = "https://download1338.mediafire.com/h79ygr4p9rmgtuhfo7dZ4Rwo_dvD0hdqTKr9vAdNSub62zVWzw5Pmn-3h_YM8P8PXMkc4Li4ZR52xToIuD3YE-iEw1YXGkHSS2DBDB6j6UWWALzLa8WgUnAaEOhr_9xDLcrFYaEuk-089bC9mde5FEsoBEl3UWl0ry5p4gnfnB-RLA/m0ogo4v5oglfra1/fml.toml"
-hash-format = "sha256"
-hash = "93bad02230893b5667229acafd7a755c438d85ad0230f54e68491a1993e2a24d"
