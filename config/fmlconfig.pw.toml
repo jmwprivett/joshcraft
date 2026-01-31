@@ -1,0 +1,8 @@
+name = "fmlconfig"
+filename = "fml.toml"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/config/fml.toml"
+hash-format = "sha256"
+hash = "896aadeb82eb557c1641e14ddbe466e4ae5902621c9f89a345aa50b788a4b6e9"

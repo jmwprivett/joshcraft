@@ -1,0 +1,8 @@
+name = "alexcavesconfig"
+filename = "alexscaves-client.toml"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/config/alexscaves-client.toml"
+hash-format = "sha256"
+hash = "f1ad3b3ff4a688f686e43fbbd39f3b73e5d3b930faa62de9e7836680d294ee8c"
