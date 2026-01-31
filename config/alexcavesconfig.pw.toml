@@ -3,6 +3,6 @@ filename = "alexscaves-client.toml"
 side = "both"
 
 [download]
-url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/config/alexscaves-client.toml"
+url = "https://download1593.mediafire.com/z00predxc1rgG7gXDobosOYx6NXNxMugosy4Jvts99Yu8SVa-60FZ69s-I6NVbv65paSbTcYw8ZlBTSPG0bWsfuUTTHqAPQ3YJmaJ4h-YOu6IABCAOMk4Q2k1qpGvPqEsZhubYMUWMlVWfTcP6tai-tB_Cl2cq_MSHr9RnMDngJTCw/wpb7t5dy7nvq1a7/alexscaves-client.toml"
 hash-format = "sha256"
-hash = "f1ad3b3ff4a688f686e43fbbd39f3b73e5d3b930faa62de9e7836680d294ee8c"
+hash = "8f063ba9b9fe3f2e3bce9cb2b5e806ee1d29dfbfdb5de96987219e7b20f6aaf9"
