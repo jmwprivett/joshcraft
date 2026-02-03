@@ -26,6 +26,10 @@ hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
 
 [[files]]
+file = "mods/DolphinRide-1.2-1.20.1-.jar"
+hash = "c0775177d0015d200d105c4074302726ead8f198d733cdcdbc4b2ae96d004a28"
+
+[[files]]
 file = "mods/aether-enhanced-extinguishing.pw.toml"
 hash = "8e7f2282ce70b5a82bfe05304c30e71d6d3c26a29a75d6e1f31e85af8b86eb2e"
 metafile = true
@@ -263,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
-metafile = true
-
-[[files]]
-file = "mods/dolphin-ride.pw.toml"
-hash = "78e674bcfcf4617c4102faece971bffebba63290f7c26cabcea83d75592f44a8"
 metafile = true
 
 [[files]]
