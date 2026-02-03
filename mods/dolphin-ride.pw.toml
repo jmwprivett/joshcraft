@@ -1,0 +1,13 @@
+name = "Dolphin Ride"
+filename = "DolphinRide-1.2-1.20.1-.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4095144b07f6b6b97a74a29d23add7b8f289ad3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5712859
+project-id = 1099042
