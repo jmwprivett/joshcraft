@@ -619,11 +619,6 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
-file = "mods/tschipcrafts-dynamic-lights-mod.pw.toml"
-hash = "58c5e76af9c6ef78346bf2ce79b5c9b4ae73e511a477d240a52142d793dafc60"
-metafile = true
-
-[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
 metafile = true
