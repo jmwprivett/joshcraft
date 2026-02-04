@@ -310,11 +310,6 @@ hash = "5a9c0b4bb162a8edfd2541b4d30e691b98e389068e5a9c6f9d9b4248ad7a5044"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "ea969a2c6d77b5e7c8bd8ab8fe52c0c46de676a9cc517f014965699d90c5ed92"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
@@ -621,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/tschipcrafts-dynamic-lights-mod.pw.toml"
+hash = "58c5e76af9c6ef78346bf2ce79b5c9b4ae73e511a477d240a52142d793dafc60"
 metafile = true
 
 [[files]]
