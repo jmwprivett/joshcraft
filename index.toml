@@ -344,11 +344,6 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
-metafile = true
-
-[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "866b92f2599f2e4058db0fd4583870ace1ad9063e8d3bc71407d3d239bcd1243"
 metafile = true
