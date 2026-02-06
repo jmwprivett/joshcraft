@@ -464,11 +464,6 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
-metafile = true
-
-[[files]]
 file = "mods/lapiz-lazuli-armor-and-tools.pw.toml"
 hash = "29bb1fed28fcec58813a216e796c368ac1bdc45bc5fede8deb9d58536988e282"
 metafile = true
