@@ -194,11 +194,6 @@ hash = "8ebdc7ced67be51751419074b5246b02ef74f7163e33de60c284d16eb459b6cb"
 metafile = true
 
 [[files]]
-file = "mods/better-tridents.pw.toml"
-hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
@@ -441,11 +436,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
-metafile = true
-
-[[files]]
-file = "mods/immersive-furniture.pw.toml"
-hash = "1e09343862563482d2c4f129b186510cadc17c4ffe8860ce514bb2859fbb6f4b"
 metafile = true
 
 [[files]]
