@@ -209,6 +209,11 @@ hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
 metafile = true
 
 [[files]]
+file = "mods/borninchaos.pw.toml"
+hash = "7961deef4c56e70d0308f80f043d653eae50e738df824afc256d6f3c3e829912"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
 metafile = true
@@ -436,6 +441,16 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "1e09343862563482d2c4f129b186510cadc17c4ffe8860ce514bb2859fbb6f4b"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Born in Chaos"
+filename = "born_in_chaos_[Forge]1.20.1_1.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1kcHy4de/versions/ySMl6XVI/born_in_chaos_%5BForge%5D1.20.1_1.7.4.jar"
+hash-format = "sha512"
+hash = "1402fab0970a093906abe23873d215d66a1b0cebfd0d1bbba6b84bb5504b7d9709f52974912ee038a1533aac4660b68e7df27a01d72e669b7d731cf3c9535231"
+
+[update]
+[update.modrinth]
+mod-id = "1kcHy4de"
+version = "ySMl6XVI"
