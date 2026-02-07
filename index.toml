@@ -532,11 +532,6 @@ hash = "4b4d83e721458f356072f309058dbdcc5ab490dd41b53764ec6305dcf30a6ed6"
 metafile = true
 
 [[files]]
-file = "mods/old-combat-mod.pw.toml"
-hash = "cf959c5a0ef96a2dcad09f464d5fc08cb487dadfeaf694ded0156a5c76518252"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "e3b879b027674a3c9b002eb24f2ea47397bf2087124387f65241b4e0ca4e73d5"
 metafile = true
