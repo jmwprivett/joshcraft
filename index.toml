@@ -384,9 +384,8 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/find-my-friends-port.pw.toml"
-hash = "ae189b9892d1eef79f5f2364b95c27e5f3a137d6f6a42ea30511f5277d9af459"
-metafile = true
+file = "mods/findmyfriends-1.1.0.jar"
+hash = "64fb896a0d82b0296f2d339c173049ab7d0b237da318ff5d5930681c04ee2b1b"
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
@@ -530,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/old-combat-mod.pw.toml"
 hash = "cf959c5a0ef96a2dcad09f464d5fc08cb487dadfeaf694ded0156a5c76518252"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "e3b879b027674a3c9b002eb24f2ea47397bf2087124387f65241b4e0ca4e73d5"
 metafile = true
 
 [[files]]
