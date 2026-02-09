@@ -1,0 +1,8 @@
+name = "findmyfriends"
+filename = "findmyfriends-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/findmyfriends-2.0.0.jar"
+hash-format = "sha256"
+hash = "f31b9990d0d6fc154139f08b17c1d0bac11f3ce9ec8834d43e792694a387203f"
