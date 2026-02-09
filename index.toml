@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/findmyfriends-1.1.0.jar"
-hash = "64fb896a0d82b0296f2d339c173049ab7d0b237da318ff5d5930681c04ee2b1b"
+hash = "fb0f65d97a38aa3393ebedb5b845a5aa2dd6a19306a2547944dcf41138410396"
 
 [[files]]
 file = "mods/findmyfriends.pw.toml"
@@ -630,10 +630,6 @@ metafile = true
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
-
-[[files]]
-file = "mods/thrasherfix-1.0.0.jar"
-hash = "4d4b654ae656ed43347dd977b1e96962af835a361c75cd9abf18cb687089801f"
 
 [[files]]
 file = "mods/thrasherfix.pw.toml"
