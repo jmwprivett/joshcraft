@@ -636,6 +636,11 @@ file = "mods/thrasherfix-1.0.0.jar"
 hash = "4d4b654ae656ed43347dd977b1e96962af835a361c75cd9abf18cb687089801f"
 
 [[files]]
+file = "mods/thrasherfix.pw.toml"
+hash = "e63d092e1524b99b97429c5360d7a6a7c0fb6274c9685b3fd8083de4db875510"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
 metafile = true
