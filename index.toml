@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/findmyfriends-1.1.0.jar"
-hash = "0a1e2036a6235bba6ebdb36f2e9c3f9baacdf036c130218e492b972ddb60a540"
+hash = "30965a3542f6de6a4379e1180d88548a4702dfdf095f3b1a54342829ea67c3ec"
 
 [[files]]
 file = "mods/findmyfriends.pw.toml"
