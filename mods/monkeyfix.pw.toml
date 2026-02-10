@@ -1,0 +1,8 @@
+name = "monkeyfix"
+filename = "monkeyfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/monkeyfix-1.0.0.jar"
+hash-format = "sha256"
+hash = "5aac92f8fffc2638c222c460ca7a952e5026e8e5bbc2146b3969f90141b0b0c3"
