@@ -493,12 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/monkeyfix-1.0.0.jar"
-hash = "40b3db246848984a2d4a2590b5450e975c53f8739188cc50272b57adf940a0b0"
-
-[[files]]
-file = "mods/monkeyfix.pw.toml"
-hash = "a75686bc69ff259cae646770fade3688ba356d261cc98637725627477d2fee75"
-metafile = true
+hash = "5aac92f8fffc2638c222c460ca7a952e5026e8e5bbc2146b3969f90141b0b0c3"
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
