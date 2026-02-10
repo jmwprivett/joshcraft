@@ -284,8 +284,9 @@ hash = "6c31969169bc5af3231c58987a65dcf1eca0e0d79e5a36c9fb221f54073513ed"
 metafile = true
 
 [[files]]
-file = "mods/domesticationinnovation-1.7.1-cheddfix.jar"
-hash = "322d93f6ae899e14ec5b6d7a7450d29ff07094c22d54ba6996ca78b8ec45b797"
+file = "mods/domestication-innovation.pw.toml"
+hash = "bfd2911d1fc7136f92be93d4e3081b85f30109373ac640fbac2e3b3896d709f2"
+metafile = true
 
 [[files]]
 file = "mods/domesticationinnovation.pw.toml"
@@ -490,6 +491,10 @@ metafile = true
 file = "mods/modernfix.pw.toml"
 hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
 metafile = true
+
+[[files]]
+file = "mods/monkeyfix-1.0.0.jar"
+hash = "17ae28e6a983e4f805be6057cf83ec5682e6d2eb7d79fb1aeb2e408345ccf5db"
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
