@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectilefix-1.0.0.jar"
-hash = "471669e8379c931a87e701e77e015026e5663133f2e2b84dffdd88ee3f23b052"
+hash = "5900af2349ecb5e55a04225eab05f87dfda1ff293d55bec7895650d865241b47"
 
 [[files]]
 file = "mods/projectilefix.pw.toml"
