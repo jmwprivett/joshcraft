@@ -1,0 +1,8 @@
+name = "projectilefix"
+filename = "projectilefix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/projectilefix-1.0.0.jar"
+hash-format = "sha256"
+hash = "471669e8379c931a87e701e77e015026e5663133f2e2b84dffdd88ee3f23b052"
