@@ -442,6 +442,11 @@ hash = "01c0d7488838d7ace6360fde1d6bdbcd5066954571e963af4f10cd39669aa6e4"
 metafile = true
 
 [[files]]
+file = "mods/hespercqs-fast-projectile-fix.pw.toml"
+hash = "9eac0dc6cc2ff463e671002d9247ef009ce5f225fb586c6504e90c535c703e3b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
 metafile = true
