@@ -684,6 +684,11 @@ hash = "50dfd8547f93d1bc8f31e1740f94e24aadf661cb2948587ac16a41404b10effd"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
+metafile = true
+
+[[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "bc6b6c847c51928cc2a716aca4c3e10bf300643554ee43a8476516adcf801f86"
 metafile = true
