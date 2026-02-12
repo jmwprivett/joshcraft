@@ -575,7 +575,7 @@ hash = "5900af2349ecb5e55a04225eab05f87dfda1ff293d55bec7895650d865241b47"
 
 [[files]]
 file = "mods/projectilefix.pw.toml"
-hash = "b47659d2ae61b3c61d0d213f32bc24b37600efc062b2b954ddf731f9ba34f712"
+hash = "6afee8259532256a25ee42e77154c477237216b10fd41e9faf0ee204b7718522"
 metafile = true
 
 [[files]]
