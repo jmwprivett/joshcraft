@@ -89,23 +89,8 @@ hash = "0884a01795fb84a7d3672fe0ea2de7d644f628c0d2cca32187657df4a058fa2e"
 metafile = true
 
 [[files]]
-file = "mods/animal-garden-common-raven.pw.toml"
-hash = "f076ec4aad1fe1c2781d91aff63c8066c7f2ce8ed47b6b7fefedc3ec780d8d35"
-metafile = true
-
-[[files]]
-file = "mods/animal-garden-fennec-fox.pw.toml"
-hash = "2625aba8b18a33c2c4486352ce5e1891397942fa72a3c1d379edc9ed072e9dd7"
-metafile = true
-
-[[files]]
 file = "mods/animal-garden-manatee.pw.toml"
 hash = "3da230273da482b43c1bc8708869e9c9bf615882ce2fbf0c49fe8bad664ddfb6"
-metafile = true
-
-[[files]]
-file = "mods/animal-garden-meerkat.pw.toml"
-hash = "22d7fd39ea6b25bebe22d1a8e2cbe5c23bf55532bb2c4d73fe3db7ae8adecdf6"
 metafile = true
 
 [[files]]
@@ -136,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/animal-garden-spotted-hyena.pw.toml"
 hash = "879f6cd31333640ae1532b721d5663636bf0f193c779199ee6be5e3cd8e68a8c"
-metafile = true
-
-[[files]]
-file = "mods/animal-garden-sugar-glider.pw.toml"
-hash = "c9bc97f2e386f0cacd8936c3a473eaf3c4d83f1e0f770bab76e78b699537bc83"
 metafile = true
 
 [[files]]
@@ -725,6 +705,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "0f4c36a62455f7a78f36b8768f2fd980e558d9a18552c6ee00e9d090b51de341"
+metafile = true
+
+[[files]]
+file = "mods/ydms-red-panda.pw.toml"
+hash = "204c474df84950c2af7bacff98eaf7820265592973caa577f29662bd5265b39a"
 metafile = true
 
 [[files]]
