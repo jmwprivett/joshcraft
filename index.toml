@@ -109,11 +109,6 @@ hash = "7000c692bff0779eeb871313e20ec1bb122e380bfda5f48cef1a0f0848a580c4"
 metafile = true
 
 [[files]]
-file = "mods/animal-garden-red-panda.pw.toml"
-hash = "175d1f6d8045db88e4dfba31c2999d4eaffa020b33142a5a9b0c9af059655911"
-metafile = true
-
-[[files]]
 file = "mods/animal-garden-sea-otter.pw.toml"
 hash = "07c2383d5d71bb56c95f9627c8a9713b1cf5c13c937c9f37020cc263ad90f993"
 metafile = true
