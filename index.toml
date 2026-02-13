@@ -149,11 +149,6 @@ hash = "dd7071d46641ac0f61f4a5ef39c089b3f1a30cf904bc4791fff9be3157716918"
 metafile = true
 
 [[files]]
-file = "mods/animal-garden-white-rhinoceros.pw.toml"
-hash = "459f6bc385b7d4ff634bcbc15e446f5d77ba65134660945930c0ff685b596878"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
