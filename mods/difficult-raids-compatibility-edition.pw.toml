@@ -1,0 +1,13 @@
+name = "Difficult Raids - Compatibility Edition"
+filename = "difficultraids-1.20.1-2.0-beta20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8rQoODDc/versions/clC07GRI/difficultraids-1.20.1-2.0-beta20.jar"
+hash-format = "sha512"
+hash = "a70eac9ef3135575d09f3afbea28a1f5a8b8afb363176d5ee29ac38b829180b8ab6de3618573433c9841a4be47df0b7a071488b7f451c944a06ce90b8eae5a38"
+
+[update]
+[update.modrinth]
+mod-id = "8rQoODDc"
+version = "clC07GRI"
