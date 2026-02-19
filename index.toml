@@ -472,6 +472,11 @@ hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
+file = "mods/mimi-mod.pw.toml"
+hash = "0b6650ba0ee372c03a8c018332a4a99731dc88ff48cf950842d7c7dae6e28c6b"
+metafile = true
+
+[[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
 hash = "3859a7d772df6ee863653aec5d12a9fb3e5169be68fa93271ac19b67bda5fd80"
 metafile = true
