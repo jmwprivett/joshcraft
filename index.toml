@@ -472,6 +472,11 @@ hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
+file = "mods/mimi-mod.pw.toml"
+hash = "0b6650ba0ee372c03a8c018332a4a99731dc88ff48cf950842d7c7dae6e28c6b"
+metafile = true
+
+[[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
 hash = "3859a7d772df6ee863653aec5d12a9fb3e5169be68fa93271ac19b67bda5fd80"
 metafile = true
@@ -507,11 +512,6 @@ hash = "d7cb727fe6cb96d556a270b3ac0b6f19bb5ee33779659f2f57d99fd9b4b3e646"
 [[files]]
 file = "mods/mucklogo.pw.toml"
 hash = "f75b45427743ee19f5027d82854fb387b9da333ef7e36d02f9825069413ff2a5"
-metafile = true
-
-[[files]]
-file = "mods/music-maker-mod.pw.toml"
-hash = "5966cd62ace7758708abfb97f22b066dd8e69c21895b0b0f3606defc9c6a1bf4"
 metafile = true
 
 [[files]]
