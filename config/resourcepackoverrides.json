@@ -1,0 +1,7 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/better-leather-armor_1.20-1.21.11.zip",
+    "file/Side Shield.zip"
+	]
+}
