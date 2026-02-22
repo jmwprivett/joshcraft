@@ -599,11 +599,6 @@ hash = "2dbe8c4d2e526717bb37fca847e0d7e42c2f65575e90883b096a2cd2787ccb30"
 metafile = true
 
 [[files]]
-file = "mods/saddle-crafting-backport.pw.toml"
-hash = "b53f840f4a7f8c1da293e1a6891c6f2fd58048e76cc14609ba0e6f0be6628bcf"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "f9834af674abc824248bedb2e490ab426cff92b036cb20413cbbacd67ec6f5e3"
 metafile = true
