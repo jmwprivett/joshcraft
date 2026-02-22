@@ -6,7 +6,7 @@ hash = "8f063ba9b9fe3f2e3bce9cb2b5e806ee1d29dfbfdb5de96987219e7b20f6aaf9"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "062a3e9671dbeab94073c02b85966e85f59d06be556f3f1d6d7812c5467a2904"
+hash = "b945a241b735ec7a389c7985dd888a7d27375294dbe00cbcea3fe4d7a7abe3db"
 
 [[files]]
 file = "config/fml.toml"
@@ -14,11 +14,11 @@ hash = "93bad02230893b5667229acafd7a755c438d85ad0230f54e68491a1993e2a24d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "2edf67757c102780a4ed3c3cb060d7dad42a23555a0821e921553da97521808e"
+hash = "44d91032a7d69e3f767181cbceee8fe8b58c6ac5366aa69aa84f416b242eeff2"
 
 [[files]]
 file = "config/simple-custom-early-loading.json"
-hash = "f65e3f94df1eb38fb4502b8e1cf014937672c95e5bbbc80b67777e22e315958b"
+hash = "c1bb3f6547af411016cccaabf4d7853287d120017bbd9fcd5f71c4969cfb667e"
 
 [[files]]
 file = "config/simple-custom-early-loading/mojang_bg.png"
@@ -251,11 +251,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
-metafile = true
-
-[[files]]
-file = "mods/difficult-raids-compatibility-edition.pw.toml"
-hash = "7252460656e97cf6c59a49e15066ff615d6a23921466c2044688d4a37275fe7f"
 metafile = true
 
 [[files]]
