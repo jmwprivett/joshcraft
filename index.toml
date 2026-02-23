@@ -436,6 +436,11 @@ file = "mods/immersive_furniture-forge-chedd.jar"
 hash = "5431bbce73a2d5354b29d56311040c4d514ffe1f54ee219f16d6643229d19034"
 
 [[files]]
+file = "mods/immersivefurniture.pw.toml"
+hash = "b2af7e41bbf8dd568b0d99e168b62540196c04e6da2c9cf08f0e1be7cfaf292a"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
 metafile = true
