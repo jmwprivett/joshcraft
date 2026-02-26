@@ -189,6 +189,11 @@ hash = "7961deef4c56e70d0308f80f043d653eae50e738df824afc256d6f3c3e829912"
 metafile = true
 
 [[files]]
+file = "mods/brutal-bosses-dungeon.pw.toml"
+hash = "34f6b1dfbd4bfd8d30b33ae5c7464bae0b9f9c3a5ce2d58ae490cc0be3f83407"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
 metafile = true
@@ -427,6 +432,11 @@ hash = "01c0d7488838d7ace6360fde1d6bdbcd5066954571e963af4f10cd39669aa6e4"
 metafile = true
 
 [[files]]
+file = "mods/iceandfire-ce.pw.toml"
+hash = "0e10f1824418c5a7bd0efacd97481159e1e2b2cff9169ea2aac72533cf1690e0"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
 metafile = true
@@ -448,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "2d5fb192f9627a892e0b4b62681644d7818470efb625abbe8ffe59925ed1c499"
 metafile = true
 
 [[files]]
@@ -682,6 +697,11 @@ hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
 metafile = true
 
 [[files]]
+file = "mods/uranus.pw.toml"
+hash = "c120dc9326e3ea876b4a46a914e739fcde98c90badaca2a9e97c4e1a34073e3d"
+metafile = true
+
+[[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "736738062381bec4d55b726546b4fab7443bea0e5983e8af65b90c56da72da06"
 metafile = true
@@ -697,6 +717,21 @@ hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "0b03ce76554551677c7c083f468c789739b4837b015232b89b6f4d9378a42766"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
+metafile = true
+
+[[files]]
+file = "mods/wildlife-expanded-skunk.pw.toml"
+hash = "c136a0994cc806d44a01ce5bc8d705951093653c25ce5b3ca73a9f045e8a58d7"
+metafile = true
+
+[[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "bc6b6c847c51928cc2a716aca4c3e10bf300643554ee43a8476516adcf801f86"
 metafile = true
@@ -709,6 +744,16 @@ metafile = true
 [[files]]
 file = "mods/ydms-red-panda.pw.toml"
 hash = "204c474df84950c2af7bacff98eaf7820265592973caa577f29662bd5265b39a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "31fca121c5b55c624ed203937c8f9b4d13cfe32f80bb85405aa4c65238378b15"
 metafile = true
 
 [[files]]
