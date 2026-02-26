@@ -1,3 +1,6 @@
+# W e l c o m e 
+hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is a list of everything mostly organized :D, enjoy crafting or whatever............
+
 ### 🌲 Biomes & Structures
 *Massive overhauls to world generation, dimensions, and many many structures.*
 
@@ -47,8 +50,7 @@
 * **C2ME** (generates chunks in parallel to allow utilization of multithreading)
 * **Chloride**
 * **Chunksending**
-* **Embeddium & Extra** 
-* **Entity Culling**
+* **Embeddium & Extra** * **Entity Culling**
 * **Fast Paintings**
 * **FerriteCore**
 * **ImmediatelyFast**
@@ -57,8 +59,7 @@
 * **Noisium**
 * **Packet Fixer**
 * **Radium Reforged**
-* **ServerCore** 
-* **Structure Essentials**
+* **ServerCore** * **Structure Essentials**
 
 ### ✨ Quality of Life & Enhancements
 *Graphics, gameplay tweaks, animations, other features.*
@@ -79,8 +80,7 @@
 * **Euphoria Patches**
 * **Falling Leaves**
 * **FallingTree**
-* **Farmer's Delight** 
-* **GraveStone Mod**
+* **Farmer's Delight** * **GraveStone Mod**
 * **Handcrafted**
 * **Hardcore Revival**
 * **Immersive Furniture**
@@ -108,7 +108,7 @@
 ### 🎒 In-Game Tools
 *Items, gear, and functional interfaces used actively by players.*
 
-* **JadeJust Enough Items**
+* **Jade**
 * **Just Enough Items (recipe thing)**
 * **Kelka Backpacks**
 * **Lapis Lazuli Armor and Tools**
