@@ -766,10 +766,6 @@ hash = "31fca121c5b55c624ed203937c8f9b4d13cfe32f80bb85405aa4c65238378b15"
 metafile = true
 
 [[files]]
-file = "readme.md"
-hash = "546f215e67ac46894a9e00747233d30673d45edd306d9f11183a0e7d7a3ca633"
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
