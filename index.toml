@@ -570,6 +570,11 @@ hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
+file = "mods/redpandapro.pw.toml"
+hash = "c4a86fe27c3cf3cf7f8dee808c3e0bb3527d15df996491cdaeb00f09926c3060"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
