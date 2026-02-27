@@ -1,0 +1,8 @@
+name = "redpandapro"
+filename = "redpandapro-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/redpandapro-1.0.0.jar"
+hash-format = "sha256"
+hash = "582eaac65d7631202b422a4b61bdb04af3d7d8e4027d07cf59e24c4275218a1b"
