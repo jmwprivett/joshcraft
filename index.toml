@@ -437,8 +437,8 @@ hash = "01c0d7488838d7ace6360fde1d6bdbcd5066954571e963af4f10cd39669aa6e4"
 metafile = true
 
 [[files]]
-file = "mods/iceandfire-ce.pw.toml"
-hash = "0e10f1824418c5a7bd0efacd97481159e1e2b2cff9169ea2aac72533cf1690e0"
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
 metafile = true
 
 [[files]]
@@ -463,11 +463,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
-metafile = true
-
-[[files]]
-file = "mods/jupiter.pw.toml"
-hash = "2d5fb192f9627a892e0b4b62681644d7818470efb625abbe8ffe59925ed1c499"
 metafile = true
 
 [[files]]
@@ -708,11 +703,6 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
-metafile = true
-
-[[files]]
-file = "mods/uranus.pw.toml"
-hash = "c120dc9326e3ea876b4a46a914e739fcde98c90badaca2a9e97c4e1a34073e3d"
 metafile = true
 
 [[files]]
