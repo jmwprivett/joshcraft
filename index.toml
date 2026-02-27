@@ -392,6 +392,11 @@ file = "mods/findmyfriends-2.0.0.jar"
 hash = "8ea3c76c0b6ddf7281a9322ac2563ca54ea55f37647b9a1949afc27e23b437bb"
 
 [[files]]
+file = "mods/findmyfriends.pw.toml"
+hash = "db9ff537641518cc90ed4b76006abecc0ed0dffa7f29d0c368e009bde9200ed9"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
