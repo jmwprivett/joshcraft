@@ -5,20 +5,8 @@ file = "config/alexscaves-client.toml"
 hash = "8f063ba9b9fe3f2e3bce9cb2b5e806ee1d29dfbfdb5de96987219e7b20f6aaf9"
 
 [[files]]
-file = "config/entityculling.json"
-hash = "b945a241b735ec7a389c7985dd888a7d27375294dbe00cbcea3fe4d7a7abe3db"
-
-[[files]]
 file = "config/fml.toml"
 hash = "93bad02230893b5667229acafd7a755c438d85ad0230f54e68491a1993e2a24d"
-
-[[files]]
-file = "config/resourcepackoverrides.json"
-hash = "44d91032a7d69e3f767181cbceee8fe8b58c6ac5366aa69aa84f416b242eeff2"
-
-[[files]]
-file = "config/simple-custom-early-loading.json"
-hash = "c1bb3f6547af411016cccaabf4d7853287d120017bbd9fcd5f71c4969cfb667e"
 
 [[files]]
 file = "config/simple-custom-early-loading/mojang_bg.png"
