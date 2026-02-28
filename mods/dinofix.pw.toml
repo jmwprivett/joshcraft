@@ -1,8 +1,0 @@
-name = "dinofix"
-filename = "dinofix-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/dinofix-1.0.0.jar"
-hash-format = "sha256"
-hash = "b9097c5b5194cee79a0fa42a5cd9bc70f5037d7b0c5d79f5c577fbac4479d64d"
