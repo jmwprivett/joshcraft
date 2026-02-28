@@ -259,10 +259,6 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/dinofix-1.0.0.jar"
-hash = "68d04bf2265144c0df44a2dbadb029751dc3c57bb04da89b4386da1d4fb1592f"
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
