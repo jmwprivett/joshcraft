@@ -745,11 +745,6 @@ hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
 metafile = true
 
 [[files]]
-file = "mods/wildlife-expanded-skunk.pw.toml"
-hash = "c136a0994cc806d44a01ce5bc8d705951093653c25ce5b3ca73a9f045e8a58d7"
-metafile = true
-
-[[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "bc6b6c847c51928cc2a716aca4c3e10bf300643554ee43a8476516adcf801f86"
 metafile = true
