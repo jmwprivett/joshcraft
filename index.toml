@@ -297,11 +297,6 @@ hash = "2559ebb63962d86829c9120d4a97ccf7aafd2b872974cd57016b98c3fb51a830"
 metafile = true
 
 [[files]]
-file = "mods/dragon-finder.pw.toml"
-hash = "2008b94c2517122285de4882648077f83566a9335658d921a629b911c07e71d5"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
 metafile = true
