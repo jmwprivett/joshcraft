@@ -1,0 +1,13 @@
+name = "Snail Mail"
+filename = "snailmail-1.20.1-1.1.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a7e0173af452d40b20dcbf4ff9e7a195121a2da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6838817
+project-id = 396710
