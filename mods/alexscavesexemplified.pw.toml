@@ -1,0 +1,13 @@
+name = "Alexs Caves Exemplified"
+filename = "alexscavesexemplified-2.1.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db60da92c2220a735d428c7ff5759a342b6291e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6931840
+project-id = 1214874

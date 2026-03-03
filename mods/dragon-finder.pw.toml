@@ -1,0 +1,13 @@
+name = "Ice and Fire: Dragon Finder"
+filename = "dragonfinder-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "288301d80ce443a3c8fe7c9cc1bd667bff003338"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5129408
+project-id = 972299

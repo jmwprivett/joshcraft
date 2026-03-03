@@ -49,6 +49,11 @@ hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-delight.pw.toml"
+hash = "a025f6f0d0b42635b1e67cae07ca6e226e738ddcf48780f1c0bd0376a9d6c8e6"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
@@ -66,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+metafile = true
+
+[[files]]
+file = "mods/alexscavesexemplified.pw.toml"
+hash = "455f80e54c08948229d010280a73d1d3e2d029652384eb81c19c6450844a8f1d"
 metafile = true
 
 [[files]]
@@ -284,6 +294,11 @@ hash = "322d93f6ae899e14ec5b6d7a7450d29ff07094c22d54ba6996ca78b8ec45b797"
 [[files]]
 file = "mods/domesticationinnovation.pw.toml"
 hash = "2559ebb63962d86829c9120d4a97ccf7aafd2b872974cd57016b98c3fb51a830"
+metafile = true
+
+[[files]]
+file = "mods/dragon-finder.pw.toml"
+hash = "2008b94c2517122285de4882648077f83566a9335658d921a629b911c07e71d5"
 metafile = true
 
 [[files]]
@@ -673,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
+metafile = true
+
+[[files]]
+file = "mods/tact.pw.toml"
+hash = "65e1b4f844d667611e351a25ba7df065954ef4d816715a0ca908f34cc502c8ca"
 metafile = true
 
 [[files]]
