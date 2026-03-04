@@ -5,6 +5,10 @@ file = "config/alexscaves-client.toml"
 hash = "8f063ba9b9fe3f2e3bce9cb2b5e806ee1d29dfbfdb5de96987219e7b20f6aaf9"
 
 [[files]]
+file = "config/alexsmobsinteraction-client.toml"
+hash = "18a425bcc9a9a5a8d8e917e19f4009c79606139ff41d120fbd73833c08ffd002"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "b945a241b735ec7a389c7985dd888a7d27375294dbe00cbcea3fe4d7a7abe3db"
 
