@@ -158,12 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/authy-1.0.0.jar"
-hash = "39ab2c7e90b41bb8d06a06bed6d577151380ebe3b772e4a723459fcf477eae00"
-
-[[files]]
-file = "mods/authy.pw.toml"
-hash = "bedb28ad5b0a1abcbaf34cb6d02889e6faa4a3e5480e54959cc19b3017e421f4"
-metafile = true
+hash = "ac38a2622ec3a720294829cd8ce9420ef9a1690e45619eb96b8283382ad62fef"
 
 [[files]]
 file = "mods/azurelib.pw.toml"
