@@ -170,11 +170,11 @@ metafile = true
 
 [[files]]
 file = "mods/besttrident-1.0.0.jar"
-hash = "256adf65bf9d20dd44157ef1eb733bf0dfeab680a0870588b3a966a6ca943f66"
+hash = "ed4d01e9802006e9bbf35d99555edb2b491d6eef33863b8f8e09be6ec49ff292"
 
 [[files]]
 file = "mods/besttrident.pw.toml"
-hash = "bbc01123a3845fa91b2ae648783ba8a548308586e709fe6cf10afaaa1e718d83"
+hash = "633f016e03163984a4bc2ac2213c7869168160094b7fe6411875011929a8bd5f"
 metafile = true
 
 [[files]]

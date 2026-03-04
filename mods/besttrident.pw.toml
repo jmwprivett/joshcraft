@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/besttrident-1.0.0.jar"
 hash-format = "sha256"
-hash = "256adf65bf9d20dd44157ef1eb733bf0dfeab680a0870588b3a966a6ca943f66"
+

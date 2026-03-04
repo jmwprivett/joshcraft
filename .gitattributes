@@ -1,3 +1,4 @@
 *.toml binary
 *.jar binary
 *.json binary
+* -text
