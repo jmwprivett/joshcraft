@@ -1,0 +1,8 @@
+name = "immersiveFurniture"
+filename = "immersive_furniture-forge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/modhost/raw/refs/heads/main/immersive_furniture-forge.jar"
+hash-format = "sha256"
+hash = "977e12f36970b3cfb7d9afe27c9def89ae2946ecb5a8d0617b99f1ec3a5c4732"
