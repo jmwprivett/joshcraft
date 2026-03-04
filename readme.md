@@ -33,14 +33,15 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Animal Garden** (Alligator Gar, Bull Shark, Manatee, Mouse, Porcupine, Prairie Dog, Sea Otter, Spotted Hyena, Western Gorilla)
 * **Born in Chaos**
 * **Brutal Bosses**
-* **Domestication Innovation**
+* **Domestication Innovation (modified to fix dissappearing name bug)**
 * **Elemental Creepers**
 * **Faunify**
 * **Friends&Foes**
-* **Ice and Fire: Community Edition**
+* **Ice and Fire: Community Edition (DWAGONSSSSS)**
 * **Mobs of Mythology**
 * **Mowzie's Mobs**
 * **Naturalist**
+* **Snail Mail (adds literal snails to deliver mail)**
 * **Species**
 * **Wildlife Expanded: Skunk**
 * **YDM's Red Panda**
@@ -78,9 +79,10 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 <summary><b>Click to view QoL mods</b></summary>
 
 * **3D Skin Layers** (adds 3D texturing to skins)
+* **Alex's Caves Exemplified**
+* **Alex's Caves Delight**
 * **AmbientSounds**
 * **AppleSkin**
-* **Better Tridents**
 * **Clumps**
 * **Complementary Shaders** (Reimagined & Unbound)
 * **Continuity**
@@ -97,7 +99,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **GraveStone Mod**
 * **Handcrafted**
 * **Hardcore Revival**
-* **Immersive Furniture**
+* **Immersive Furniture (modified to improve caching and packet size)**
 * **MakeUp - Ultra Fast Shaders**
 * **Mob AI Tweaks**
 * **Name Tag Tweaks**
@@ -113,6 +115,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Smart Completion**
 * **Spawn Animations**
 * **Spawn Balance Utility** (manually fix spawnrates for more diversity)
+* **TACT (alex caves compat mod)**
 * **Universal Enchants**
 * **Visuality: Reforged**
 * **Waystones**
@@ -130,7 +133,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Kelka Backpacks**
 * **Lapis Lazuli Armor and Tools**
 * **MIMI** (adds playable midi instruments!!!!)
-* **Mine Spawners**
+* **Mine Spawners (silk touch spawners)**
 </details>
 
 ### 🛡️ Administration Tools
@@ -149,9 +152,10 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 <details>
 <summary><b>Click to view My Mods</b></summary>
 
+* **BestTridents** (stole logic from Better Tridents for xp orb + mob loot, rewrote return logic so it ALWAYS go back to same hotbar slot)
 * **FindMyFriends** (completely rewrote original mod)
 * **Monkeyfix** (fixes server-side rendering of monkey on shoulder)
-* **Redpandapro** (adds ability to put red panda on shoulder <3)
+* **Redpandapro** (adds ability to put red panda on shoulder, also patches skunk mod so they dont spray stink and crash the server :D)
 * **WaystonesFix** (fixes rendering of ridable pets when going through waystones)
 </details>
 
