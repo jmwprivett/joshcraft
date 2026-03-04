@@ -1,8 +1,0 @@
-name = "besttrident"
-filename = "besttrident-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/jmwprivett/modhost/raw/refs/heads/main/besttrident-1.0.0.jar"
-hash-format = "sha256"
-hash = "9d1283bd7caf01cc348b2e20d8ce09e416fe8d79880057c47a6cffa020aa4d15"
