@@ -30,6 +30,10 @@ hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
 
 [[files]]
+file = "mods/DolphinRide-1.2-1.20.1-.jar"
+hash = "c0775177d0015d200d105c4074302726ead8f198d733cdcdbc4b2ae96d004a28"
+
+[[files]]
 file = "mods/aether-enhanced-extinguishing.pw.toml"
 hash = "8e7f2282ce70b5a82bfe05304c30e71d6d3c26a29a75d6e1f31e85af8b86eb2e"
 metafile = true
@@ -165,6 +169,10 @@ hash = "fec49033058ced91f7668d4e305e599f5527501ef37c1f30f96d8927d6202d32"
 metafile = true
 
 [[files]]
+file = "mods/besttrident-1.0.0.jar"
+hash = "9d1283bd7caf01cc348b2e20d8ce09e416fe8d79880057c47a6cffa020aa4d15"
+
+[[files]]
 file = "mods/besttrident.pw.toml"
 hash = "f1b753c26e6547d29f0dff68b4cd4b2d02671c6eac0d5241ee94a6e39dcbf4d4"
 metafile = true
@@ -270,6 +278,10 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/dinofix-1.0.0.jar"
+hash = "52f8ffc89604f23fcd83c94f4092024f97dc4eb04733a59833f1b44d798fc614"
+
+[[files]]
 file = "mods/dinofix.pw.toml"
 hash = "061330c237aba76d4c2f8467a37112098dc0c85da0bc616fc9938a3ba47bf12b"
 metafile = true
@@ -283,6 +295,10 @@ metafile = true
 file = "mods/dolphinride.pw.toml"
 hash = "a24c1625521375788555d0ed68133ecc3649d06a12ecadf83ef64134d0240576"
 metafile = true
+
+[[files]]
+file = "mods/domesticationinnovation-1.7.1-cheddfix.jar"
+hash = "322d93f6ae899e14ec5b6d7a7450d29ff07094c22d54ba6996ca78b8ec45b797"
 
 [[files]]
 file = "mods/domesticationinnovation.pw.toml"
@@ -400,8 +416,12 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/findmyfriends-2.0.0.jar"
+hash = "8ea3c76c0b6ddf7281a9322ac2563ca54ea55f37647b9a1949afc27e23b437bb"
+
+[[files]]
 file = "mods/findmyfriends.pw.toml"
-hash = "eb8832d5c80966abdb7c241c06e770b96d1480cbe3d27a4c809b329c77717318"
+hash = "db9ff537641518cc90ed4b76006abecc0ed0dffa7f29d0c368e009bde9200ed9"
 metafile = true
 
 [[files]]
@@ -455,8 +475,12 @@ hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
 metafile = true
 
 [[files]]
-file = "mods/immersivefurniture1-0.pw.toml"
-hash = "6ce05b1182874a68f8dcea22e79e38a2ecd9044edfe9e1631b941985d5d82b49"
+file = "mods/immersive_furniture-forge.jar"
+hash = "977e12f36970b3cfb7d9afe27c9def89ae2946ecb5a8d0617b99f1ec3a5c4732"
+
+[[files]]
+file = "mods/immersivefurniture.pw.toml"
+hash = "f002a296d4efa247352d6807a7bf9dcb2e7638d84bcdc896fa76bd270a612a31"
 metafile = true
 
 [[files]]
@@ -515,8 +539,12 @@ hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
 metafile = true
 
 [[files]]
+file = "mods/monkeyfix-1.0.0.jar"
+hash = "5aac92f8fffc2638c222c460ca7a952e5026e8e5bbc2146b3969f90141b0b0c3"
+
+[[files]]
 file = "mods/monkeyfix.pw.toml"
-hash = "22651d712c41e3fefaa53bfc9db2f2b2c8055e009bd527104852804620d93d0c"
+hash = "89bbae89aac9dbe8bc828ecf46872b209cd9159a254b2516ffbcdb9c6758da4e"
 metafile = true
 
 [[files]]
@@ -525,8 +553,12 @@ hash = "fc09447db9efb9f9ec998ce84cf11edfd089a2515a300e45fd06e607aabc051a"
 metafile = true
 
 [[files]]
+file = "mods/mucklogo-1.0.0.jar"
+hash = "d7cb727fe6cb96d556a270b3ac0b6f19bb5ee33779659f2f57d99fd9b4b3e646"
+
+[[files]]
 file = "mods/mucklogo.pw.toml"
-hash = "cc0b984d405ae68492b109dfa73f2855cad3fed8337c998de04bba96424c50ca"
+hash = "f75b45427743ee19f5027d82854fb387b9da333ef7e36d02f9825069413ff2a5"
 metafile = true
 
 [[files]]
@@ -580,8 +612,12 @@ hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
+file = "mods/projectilefix-1.0.0.jar"
+hash = "5900af2349ecb5e55a04225eab05f87dfda1ff293d55bec7895650d865241b47"
+
+[[files]]
 file = "mods/projectilefix.pw.toml"
-hash = "8e8f7c48e7074e38ef352f14b90773454992c68ad676380fd1d0d59749b53f26"
+hash = "6afee8259532256a25ee42e77154c477237216b10fd41e9faf0ee204b7718522"
 metafile = true
 
 [[files]]
@@ -595,8 +631,12 @@ hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
+file = "mods/redpandapro-1.0.0.jar"
+hash = "0f285633c190105b7077aea7f805bde0986a61b7a46ea761282548e6f09bdd8e"
+
+[[files]]
 file = "mods/redpandapro.pw.toml"
-hash = "2461b688ac875d52b9f419510207d270a407139045c4ce0895ebddfb9a278c64"
+hash = "0479596e8994bb7857eafdd263f7ba3af8deeebba0fac67e81d1fb10dd61465e"
 metafile = true
 
 [[files]]
@@ -685,8 +725,12 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
+file = "mods/thrasherfix-1.0.0.jar"
+hash = "4d4b654ae656ed43347dd977b1e96962af835a361c75cd9abf18cb687089801f"
+
+[[files]]
 file = "mods/thrasherfix.pw.toml"
-hash = "1c4873aa178248bf98f651ea27c01d3741974db0af14e0b0ef41cf9bf9cc5d5e"
+hash = "e63d092e1524b99b97429c5360d7a6a7c0fb6274c9685b3fd8083de4db875510"
 metafile = true
 
 [[files]]
