@@ -627,12 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/redpandapro-1.0.0.jar"
-hash = "15037849600e45c3ab49123baf92f6b51684e737e5b941a9225ffa69358bca55"
-
-[[files]]
-file = "mods/redpandapro.pw.toml"
-hash = "8c8969da2fbf8d048f5d5b986deb09f99aca1b5502b77e88a93eb9a2e7820fe1"
-metafile = true
+hash = "1eab52256e5e05ae7bc4d4eedb560bb4e347fd51ccfd9d719fdb07e8325ee4ab"
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
