@@ -630,6 +630,11 @@ file = "mods/redpandapro-1.0.0.jar"
 hash = "15037849600e45c3ab49123baf92f6b51684e737e5b941a9225ffa69358bca55"
 
 [[files]]
+file = "mods/redpandapro.pw.toml"
+hash = "8c8969da2fbf8d048f5d5b986deb09f99aca1b5502b77e88a93eb9a2e7820fe1"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
@@ -766,6 +771,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
+metafile = true
+
+[[files]]
+file = "mods/wildlife-expanded-skunk.pw.toml"
+hash = "c136a0994cc806d44a01ce5bc8d705951093653c25ce5b3ca73a9f045e8a58d7"
 metafile = true
 
 [[files]]
