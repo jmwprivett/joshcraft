@@ -170,12 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/besttrident-1.0.0.jar"
-hash = "751889e6e30b755a04d1b28bf6131641ea7338b498a71b54879fa4213ddb5dc9"
-
-[[files]]
-file = "mods/besttrident.pw.toml"
-hash = "cbac2bd19d0252a41133cb8c82ac52ba551a3116cf03a02858ff2af365245b62"
-metafile = true
+hash = "5968924bfcade119fd9735be14946745e28ee44cd496c8774eacb374ad004bc8"
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
