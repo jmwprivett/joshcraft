@@ -1,0 +1,8 @@
+name = "authy"
+filename = "authy-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/authy-1.0.0.jar"
+hash-format = "sha256"
+hash = "789b6a0c581bc5bda4beb048df439c5cd4ab067b84365284b12de20f65333f57"
