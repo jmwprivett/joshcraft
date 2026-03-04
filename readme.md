@@ -144,7 +144,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Chunky** (chunk pregenerator)
 * **LogProt**
 * **Spark** (performance profiler, super helpful for debugging)
-* **WorldEdit** (plus *CUI*)
+* **WorldEdit** (plus *CUI*) <currently disabled because of memory overhead from furniture mod>
 </details>
 
 ### 💻 My Mods
