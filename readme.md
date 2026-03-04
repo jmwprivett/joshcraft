@@ -103,6 +103,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **MakeUp - Ultra Fast Shaders**
 * **Mob AI Tweaks**
 * **Name Tag Tweaks**
+* **No Chat Reports (to supress that stupid message)**
 * **Not Enough Animations**
 * **Oculus**
 * **OldCombatMod**
@@ -152,6 +153,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 <details>
 <summary><b>Click to view My Mods</b></summary>
 
+* **Authy (custom authentication mod utilizing HWID for use on offline server)**
 * **BestTridents** (stole logic from Better Tridents for xp orb + mob loot, rewrote return logic so it ALWAYS go back to same hotbar slot)
 * **FindMyFriends** (completely rewrote original mod)
 * **Monkeyfix** (fixes server-side rendering of monkey on shoulder)
