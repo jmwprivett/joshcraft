@@ -174,7 +174,7 @@ hash = "751889e6e30b755a04d1b28bf6131641ea7338b498a71b54879fa4213ddb5dc9"
 
 [[files]]
 file = "mods/besttrident.pw.toml"
-hash = "aee14fb6f13b4713fc876534c892b8d5b4c8cf16948bc039c96734a55322ca2a"
+hash = "cbac2bd19d0252a41133cb8c82ac52ba551a3116cf03a02858ff2af365245b62"
 metafile = true
 
 [[files]]
@@ -185,11 +185,6 @@ metafile = true
 [[files]]
 file = "mods/better-snowy-biome.pw.toml"
 hash = "8ebdc7ced67be51751419074b5246b02ef74f7163e33de60c284d16eb459b6cb"
-metafile = true
-
-[[files]]
-file = "mods/better-tridents.pw.toml"
-hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
 metafile = true
 
 [[files]]
@@ -283,7 +278,7 @@ hash = "52f8ffc89604f23fcd83c94f4092024f97dc4eb04733a59833f1b44d798fc614"
 
 [[files]]
 file = "mods/dinofix.pw.toml"
-hash = "061330c237aba76d4c2f8467a37112098dc0c85da0bc616fc9938a3ba47bf12b"
+hash = "990517d893d8d78bbe9b8836b22cc5006b7b5312119eefd73672cfb5cfe32e89"
 metafile = true
 
 [[files]]
@@ -293,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/dolphinride.pw.toml"
-hash = "a24c1625521375788555d0ed68133ecc3649d06a12ecadf83ef64134d0240576"
+hash = "6c31969169bc5af3231c58987a65dcf1eca0e0d79e5a36c9fb221f54073513ed"
 metafile = true
 
 [[files]]
@@ -302,7 +297,7 @@ hash = "322d93f6ae899e14ec5b6d7a7450d29ff07094c22d54ba6996ca78b8ec45b797"
 
 [[files]]
 file = "mods/domesticationinnovation.pw.toml"
-hash = "4080646ad10d25562a1bf71642ec71d763bcb5c0186de97465ff56a16264b1fb"
+hash = "2559ebb63962d86829c9120d4a97ccf7aafd2b872974cd57016b98c3fb51a830"
 metafile = true
 
 [[files]]
