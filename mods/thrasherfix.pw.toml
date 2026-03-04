@@ -1,0 +1,8 @@
+name = "thrasherfix"
+filename = "thrasherfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/thrasherfix-1.0.0.jar"
+hash-format = "sha256"
+hash = "4d4b654ae656ed43347dd977b1e96962af835a361c75cd9abf18cb687089801f"

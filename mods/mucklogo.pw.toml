@@ -1,0 +1,8 @@
+name = "mucklogo"
+filename = "mucklogo-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/mucklogo-1.0.0.jar"
+hash-format = "sha256"
+hash = "d7cb727fe6cb96d556a270b3ac0b6f19bb5ee33779659f2f57d99fd9b4b3e646"
