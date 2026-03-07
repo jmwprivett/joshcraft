@@ -1,8 +1,0 @@
-name = "besttrident"
-filename = "besttrident-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/besttrident-1.0.0.jar"
-hash-format = "sha256"
-hash = "5968924bfcade119fd9735be14946745e28ee44cd496c8774eacb374ad004bc8"
