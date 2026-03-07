@@ -190,6 +190,11 @@ file = "mods/besttrident-1.0.0.jar"
 hash = "a4f18577e04bdfc0f3664c8c5a374a266ae5b3404864723e6c2da41b012735b4"
 
 [[files]]
+file = "mods/besttrident.pw.toml"
+hash = "ef25332aa73df98f74a9ee811ba0ab48a06b0973e85f9e74f40d5e8066299420"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
 metafile = true
