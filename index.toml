@@ -531,11 +531,6 @@ hash = "29bb1fed28fcec58813a216e796c368ac1bdc45bc5fede8deb9d58536988e282"
 metafile = true
 
 [[files]]
-file = "mods/lendercataclysm.pw.toml"
-hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
 metafile = true
