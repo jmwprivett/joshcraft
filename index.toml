@@ -561,11 +561,6 @@ hash = "0b6650ba0ee372c03a8c018332a4a99731dc88ff48cf950842d7c7dae6e28c6b"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "f99fcf9508386ee5d49b252ea42c95e299a20c6b9a23df6704d032d38cbce7a3"
-metafile = true
-
-[[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
 hash = "3859a7d772df6ee863653aec5d12a9fb3e5169be68fa93271ac19b67bda5fd80"
 metafile = true
