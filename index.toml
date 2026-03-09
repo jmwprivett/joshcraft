@@ -286,7 +286,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "e50740a50bdeef70e78fc991fbc8eee9dbb4bacd11f5e7cbf10f4c46cb5fd0aa"
 metafile = true
 
 [[files]]
@@ -437,6 +442,11 @@ hash = "db9ff537641518cc90ed4b76006abecc0ed0dffa7f29d0c368e009bde9200ed9"
 metafile = true
 
 [[files]]
+file = "mods/foolish.pw.toml"
+hash = "d987e2a699d57d198e0e3530e916c0f6d3ee256fca6b345ca27f4e6c6b892ee6"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
@@ -453,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
+hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
 metafile = true
 
 [[files]]
@@ -521,8 +531,23 @@ hash = "29bb1fed28fcec58813a216e796c368ac1bdc45bc5fede8deb9d58536988e282"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
+metafile = true
+
+[[files]]
+file = "mods/lovecraft-beyond-the-abyss.pw.toml"
+hash = "7e3d9caa0c147d67b4a9ec892c409a1a4ea8fe7c31fefd04c20323535668308d"
 metafile = true
 
 [[files]]
@@ -533,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/mimi-mod.pw.toml"
 hash = "0b6650ba0ee372c03a8c018332a4a99731dc88ff48cf950842d7c7dae6e28c6b"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "f99fcf9508386ee5d49b252ea42c95e299a20c6b9a23df6704d032d38cbce7a3"
 metafile = true
 
 [[files]]
@@ -739,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]

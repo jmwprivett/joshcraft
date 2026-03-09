@@ -1,0 +1,13 @@
+name = "Foolish"
+filename = "foolish-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8e3488ca2463072b633b8cc7d90fe0ba35dcefa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7490467
+project-id = 1114633
