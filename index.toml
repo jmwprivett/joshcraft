@@ -546,11 +546,6 @@ hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
 metafile = true
 
 [[files]]
-file = "mods/lovecraft-beyond-the-abyss.pw.toml"
-hash = "7e3d9caa0c147d67b4a9ec892c409a1a4ea8fe7c31fefd04c20323535668308d"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
