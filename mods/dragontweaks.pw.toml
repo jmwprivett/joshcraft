@@ -1,0 +1,8 @@
+name = "dragontweaks"
+filename = "dragontweaks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/dragontweaks-1.0.0.jar"
+hash-format = "sha256"
+hash = "c25c244b5a51130206b9e9318fcf6bd3db822264335d71e9156788ad88291806"
