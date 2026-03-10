@@ -560,11 +560,6 @@ hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
 metafile = true
 
 [[files]]
-file = "mods/lovecraft-beyond-the-abyss.pw.toml"
-hash = "3e872a1567ca48d6bf7ce2a03d0b0035f0e7ed9e752f46e7a94851fd279818c2"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
@@ -572,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/mimi-mod.pw.toml"
 hash = "0b6650ba0ee372c03a8c018332a4a99731dc88ff48cf950842d7c7dae6e28c6b"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "f99fcf9508386ee5d49b252ea42c95e299a20c6b9a23df6704d032d38cbce7a3"
 metafile = true
 
 [[files]]
