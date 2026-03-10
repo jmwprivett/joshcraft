@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bliss-shader.pw.toml"
+hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
+metafile = true
+
+[[files]]
 file = "config/alexscaves-client.toml"
 hash = "8f063ba9b9fe3f2e3bce9cb2b5e806ee1d29dfbfdb5de96987219e7b20f6aaf9"
 
@@ -215,6 +220,11 @@ hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
+metafile = true
+
+[[files]]
 file = "mods/borninchaos.pw.toml"
 hash = "7961deef4c56e70d0308f80f043d653eae50e738df824afc256d6f3c3e829912"
 metafile = true
@@ -287,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "e65164369f3331b4cf0b110287b1afbca5dcc73d70e1f33cbb474527c8616d7b"
 metafile = true
 
 [[files]]
