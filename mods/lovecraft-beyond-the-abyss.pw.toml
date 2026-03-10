@@ -1,0 +1,13 @@
+name = "Lovecraft: Beyond the Abyss"
+filename = "beyondtheabyss-0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1703f6ce5576d8c4794553667a091df841cd629f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7734978
+project-id = 1375903
