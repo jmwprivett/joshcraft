@@ -334,13 +334,8 @@ hash = "6c31969169bc5af3231c58987a65dcf1eca0e0d79e5a36c9fb221f54073513ed"
 metafile = true
 
 [[files]]
-file = "mods/domesticationinnovation-1.7.1-cheddfix.jar"
-hash = "322d93f6ae899e14ec5b6d7a7450d29ff07094c22d54ba6996ca78b8ec45b797"
-
-[[files]]
-file = "mods/domesticationinnovation.pw.toml"
-hash = "2559ebb63962d86829c9120d4a97ccf7aafd2b872974cd57016b98c3fb51a830"
-metafile = true
+file = "mods/domesticationinnovation-1.7.1.jar"
+hash = "57fc255311876c6beb1f4fa973363bd3cfb5e07500879e106255c415f42832b1"
 
 [[files]]
 file = "mods/dragontweaks-1.0.0.jar"

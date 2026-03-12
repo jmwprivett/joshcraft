@@ -1,8 +1,0 @@
-name = "domesticationinnovation"
-filename = "domesticationinnovation-1.7.1-cheddfix.jar"
-side = "both"
-
-[download]
-url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/domesticationinnovation-1.7.1-cheddfix.jar"
-hash-format = "sha256"
-hash = "322d93f6ae899e14ec5b6d7a7450d29ff07094c22d54ba6996ca78b8ec45b797"
