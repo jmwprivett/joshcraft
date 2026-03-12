@@ -338,6 +338,11 @@ file = "mods/domesticationinnovation-1.7.1.jar"
 hash = "24be8c6280e9159e8de8ae25deaaa0ce2454a87983acdbcce9bbbe0c3c3f0538"
 
 [[files]]
+file = "mods/domesticationinnovation.pw.toml"
+hash = "3e87b47fdee6ad671b65b1ecd82b7edf6373bf3f23cc5445e464d7bff9598aaa"
+metafile = true
+
+[[files]]
 file = "mods/dragontweaks-1.0.0.jar"
 hash = "c25c244b5a51130206b9e9318fcf6bd3db822264335d71e9156788ad88291806"
 
