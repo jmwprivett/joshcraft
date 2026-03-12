@@ -1,8 +1,0 @@
-name = "domesticationinnovation"
-filename = "domesticationinnovation-1.7.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/domesticationinnovation-1.7.1.jar"
-hash-format = "sha256"
-hash = "57fc255311876c6beb1f4fa973363bd3cfb5e07500879e106255c415f42832b1"
