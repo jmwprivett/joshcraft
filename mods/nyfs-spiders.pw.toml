@@ -1,0 +1,13 @@
+name = "Nyf's Spiders"
+filename = "nyfsspiders-Forge-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10fe91f66dcc6613e58ceddbfb1f4e67c2ec3bbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7652359
+project-id = 686058
