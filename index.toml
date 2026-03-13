@@ -157,13 +157,8 @@ hash = "1aee7c19f4bf62f59396529abaad6474d9cf0f6fb893e11ab11ad98487df3012"
 metafile = true
 
 [[files]]
-file = "mods/arachnid-rancher.pw.toml"
-hash = "daeca067f9b4f8525cb1c09fbfb6cf7aed55bcd2dc2ca6094a0357ab12a3a945"
-metafile = true
-
-[[files]]
-file = "mods/arachnid_rancher_rebuilt_19-1.0.0-1.20.1.jar"
-hash = "79b939ca2203345697799bbb0cef1aeee790af8f48074e606cede0a39bc2edb8"
+file = "mods/arachnid_nyf_compat-1.0.0.jar"
+hash = "811be1fdf05bbef8781f28a06802d055bb336a77d28a901a2b26cbdf174f2656"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -220,6 +215,11 @@ hash = "a4f18577e04bdfc0f3664c8c5a374a266ae5b3404864723e6c2da41b012735b4"
 [[files]]
 file = "mods/besttrident.pw.toml"
 hash = "ef25332aa73df98f74a9ee811ba0ab48a06b0973e85f9e74f40d5e8066299420"
+metafile = true
+
+[[files]]
+file = "mods/better-arachnophobia.pw.toml"
+hash = "6454aef5eacb50522a3f5e0562025155b3eeb2ecdaa2582d906eebaab48f94ae"
 metafile = true
 
 [[files]]

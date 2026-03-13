@@ -1,0 +1,13 @@
+name = "Better Arachnophobia"
+filename = "BetterArachnophobia-forge-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8484147579beaa908f27f98045682f7ba3061653"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7215843
+project-id = 1362784
