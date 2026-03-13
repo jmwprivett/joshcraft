@@ -163,6 +163,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 <summary><b>Click to view My Mods</b></summary>
 
 * **Authy (custom authentication mod utilizing HWID for use on offline server)**
+* **Backpack-fix (fixes shift-clicking into bigger bags and item deletion bug)**
 * **BestTridents** (stole logic from Better Tridents for xp orb + mob loot, rewrote return logic so it ALWAYS go back to same hotbar slot)
 * **FindMyFriends** (completely rewrote original mod)
 * **Monkeyfix** (fixes server-side rendering of monkey on shoulder)
