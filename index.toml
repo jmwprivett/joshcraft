@@ -181,6 +181,10 @@ hash = "52af8d3df28fb1c16f4f6c9a49a0dda6ddb8725c6690c36d01a6aca94ec5c6ab"
 metafile = true
 
 [[files]]
+file = "mods/backpackfix-1.0.0.jar"
+hash = "9bcd3060a5bb0906d3680d71c9d34d8e14c4b420d2b26894703977837f51dc83"
+
+[[files]]
 file = "mods/backpacks.pw.toml"
 hash = "c48d4aa0ab31079afdcc831805dbcc00ac6131716d802f90f448f643f71b5a67"
 metafile = true
