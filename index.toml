@@ -162,10 +162,6 @@ hash = "a475a2b54bf55c5598975bea4859b5cda57419055ff8dbf402810cd051d11720"
 metafile = true
 
 [[files]]
-file = "mods/arachnid_nyf_compat-1.0.0.jar"
-hash = "811be1fdf05bbef8781f28a06802d055bb336a77d28a901a2b26cbdf174f2656"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -367,12 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragontweaks-1.0.0.jar"
-hash = "21dca9663a591af4d4e1139504e3e0e6a997cc11278f91966a77e4e6b38bb514"
-
-[[files]]
-file = "mods/dragontweaks.pw.toml"
-hash = "88e207c19ce39ed8fb94c2267455af546d2354d1bbe9e5c6b5be83466bafb60e"
-metafile = true
+hash = "001700fc552af9c9632ade64261271cbbc321d49528a1e210ffc2e4e66f689df"
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
