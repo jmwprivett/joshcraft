@@ -157,6 +157,11 @@ hash = "1aee7c19f4bf62f59396529abaad6474d9cf0f6fb893e11ab11ad98487df3012"
 metafile = true
 
 [[files]]
+file = "mods/arachnid-nyf-compat.pw.toml"
+hash = "a475a2b54bf55c5598975bea4859b5cda57419055ff8dbf402810cd051d11720"
+metafile = true
+
+[[files]]
 file = "mods/arachnid_nyf_compat-1.0.0.jar"
 hash = "811be1fdf05bbef8781f28a06802d055bb336a77d28a901a2b26cbdf174f2656"
 
