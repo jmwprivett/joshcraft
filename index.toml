@@ -157,6 +157,11 @@ hash = "1aee7c19f4bf62f59396529abaad6474d9cf0f6fb893e11ab11ad98487df3012"
 metafile = true
 
 [[files]]
+file = "mods/arachnid-rancher.pw.toml"
+hash = "daeca067f9b4f8525cb1c09fbfb6cf7aed55bcd2dc2ca6094a0357ab12a3a945"
+metafile = true
+
+[[files]]
 file = "mods/arachnid_rancher_rebuilt_19-1.0.0-1.20.1.jar"
 hash = "79b939ca2203345697799bbb0cef1aeee790af8f48074e606cede0a39bc2edb8"
 
