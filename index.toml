@@ -157,9 +157,8 @@ hash = "1aee7c19f4bf62f59396529abaad6474d9cf0f6fb893e11ab11ad98487df3012"
 metafile = true
 
 [[files]]
-file = "mods/arachnid-nyf-compat.pw.toml"
-hash = "a475a2b54bf55c5598975bea4859b5cda57419055ff8dbf402810cd051d11720"
-metafile = true
+file = "mods/arachnid_nyf_compat-1.0.0.jar"
+hash = "0e4fb0711dcc992a14625e7b060a40d59c972b0f1ab9e8a2949f7454a4111376"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
