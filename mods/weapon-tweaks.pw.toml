@@ -1,0 +1,8 @@
+name = "weapon-tweaks"
+filename = "weapon-tweaks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/weapon-tweaks-1.0.0.jar"
+hash-format = "sha256"
+hash = "14c57f108f074a748aeea0dbcac050a55741b471a783eedd8a2567664f5ede46"
