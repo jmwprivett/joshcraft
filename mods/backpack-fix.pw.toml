@@ -1,8 +1,0 @@
-name = "backpack-fix"
-filename = "backpackfix-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/backpackfix-1.0.0.jar"
-hash-format = "sha256"
-hash = "9130e9119c9d79f12068c98b0ed24c14ae53cdc6a1e5b4f00b6605b9c71706f0"
