@@ -181,13 +181,8 @@ hash = "52af8d3df28fb1c16f4f6c9a49a0dda6ddb8725c6690c36d01a6aca94ec5c6ab"
 metafile = true
 
 [[files]]
-file = "mods/backpack-fix.pw.toml"
-hash = "c97bf96d689a67404c372a4cc5fac319c92418ea6069831673cf3d7fbf5bf184"
-metafile = true
-
-[[files]]
 file = "mods/backpackfix-1.0.0.jar"
-hash = "9bcd3060a5bb0906d3680d71c9d34d8e14c4b420d2b26894703977837f51dc83"
+hash = "9130e9119c9d79f12068c98b0ed24c14ae53cdc6a1e5b4f00b6605b9c71706f0"
 
 [[files]]
 file = "mods/backpacks.pw.toml"
@@ -353,12 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragontweaks-1.0.0.jar"
-hash = "c25c244b5a51130206b9e9318fcf6bd3db822264335d71e9156788ad88291806"
-
-[[files]]
-file = "mods/dragontweaks.pw.toml"
-hash = "327358df0da055a2977cd42374ea5d906906c60e6586cb44c9504f4f6153a868"
-metafile = true
+hash = "9837083964a8f530cdf7ac92d4781be3b3bcbdf74802c2b9b2733b02e96eb274"
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
