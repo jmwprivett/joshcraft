@@ -356,6 +356,11 @@ file = "mods/dragontweaks-1.0.0.jar"
 hash = "a58efe88f4536165ecb3de3fc274b0621c0c80269e6932954488190954fcc51f"
 
 [[files]]
+file = "mods/dragontweaks.pw.toml"
+hash = "709c989f9ee0379e140437ca089d2cef102611da249ee86a5f73f64e197ec4c2"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
 metafile = true
@@ -851,6 +856,11 @@ metafile = true
 [[files]]
 file = "mods/weapon-tweaks-1.0.0.jar"
 hash = "926dc21de3c0592dfe1ce0368a3c2dea7d8fe28079529fb34a862d72926d2335"
+
+[[files]]
+file = "mods/weapon-tweaks.pw.toml"
+hash = "546b3e676965f0b613fc9b4c6d5f78e7d5bc66390cce953ab8289fac67bd13f9"
+metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
