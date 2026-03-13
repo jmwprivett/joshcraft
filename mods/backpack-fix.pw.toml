@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/backpackfix-1.0.0.jar"
 hash-format = "sha256"
-hash = "73b200408812e0382ca76171ec33b3be60103fb8c210006ac373a3d45dd6ff95"
+hash = "9a1c04b125b08e675c49b91cede0d6ac9dd011bb308afe39cddc534e8298d882"
