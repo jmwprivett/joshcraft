@@ -1,7 +1,7 @@
 # W e l c o m e 
 hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is a list of everything mostly organized :D, enjoy crafting or whatever............
 
-### 🌲 Biomes & Structures
+### 🌲 Biomes, Structures, Dimensions
 *Massive overhauls to world generation, dimensions, and many many structures.*
 <details>
 <summary><b>Click to view Biomes & Structures mods</b></summary>
@@ -9,9 +9,11 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **The Aether** (plus *Lost Content* & *Enhanced Extinguishing*)
 * **Alex's Caves**
 * **Biomes O' Plenty**
+* **Deeper & Darker (makes deep dark actually useful and not stupid)**
 * **Dungeon's Delight**
 * **Dungeons and Taverns** (plus *Ancient City*, *Pillager Outpost*, *Stronghold*, & *Swamp Hut* Overhauls)
 * **Ecologics**
+* **Foolish** (adds new dimnesion with lots of weird mobs and biomes)
 * **Incendium**
 * **Oh The Biomes We've Gone**
 * **Oh The Trees You'll Grow**
@@ -19,6 +21,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Structory: Towers**
 * **Tectonic**
 * **Terralith**
+* **Twilight Forest (ooooo)**
 * **Upgrade Aquatic**
 * **When Dungeons Arise** (plus *Seven Seas*)
 * **YUNG's Better Dungeons**
@@ -38,6 +41,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Faunify**
 * **Friends&Foes**
 * **Ice and Fire: Community Edition (DWAGONSSSSS)**
+* **MCA: Reborn (STARDEW VALLEY VILLAGERS)**
 * **Mobs of Mythology**
 * **Mowzie's Mobs**
 * **Naturalist**
@@ -71,6 +75,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Radium Reforged**
 * **ServerCore**
 * **Structure Essentials**
+* **Structure Layout Optimizer (should once and for all kill world gen lag)**
 </details>
 
 ### ✨ Quality of Life & Enhancements
@@ -79,14 +84,17 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 <summary><b>Click to view QoL mods</b></summary>
 
 * **3D Skin Layers** (adds 3D texturing to skins)
+* **Additional Lanterns**
 * **Alex's Caves Exemplified**
 * **Alex's Caves Delight**
 * **AmbientSounds**
 * **AppleSkin**
+* **Artifacts (stardew valley esque quirky items)**
 * **Clumps**
 * **Complementary Shaders** (Reimagined & Unbound)
 * **Continuity**
 * **Cosmetic Armor Reworked**
+* **Dark Paintings**
 * **Distant Horizons**
 * **Dolphin Ride** (ride dolphins by right-clicking them with a saddle)
 * **Easy Anvils**
@@ -100,6 +108,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Handcrafted**
 * **Hardcore Revival**
 * **Immersive Furniture (modified to improve caching and packet size)**
+* **Immersive Paintings (custom painting import mod)**
 * **MakeUp - Ultra Fast Shaders**
 * **Mob AI Tweaks**
 * **Name Tag Tweaks**
@@ -170,6 +179,7 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **Architectury API**
 * **AzureLib**
 * **Balm**
+* **Bookshelf**
 * **Blueprint**
 * **Citadel**
 * **Cloth Config API**
@@ -185,17 +195,20 @@ hello ga*mers, welcome to the super cool fun and awesome modpack (wow), here is 
 * **GlitchCore**
 * **Jupiter**
 * **Kotlin for Forge**
+* **Lionfish API**
 * **Lithostitched**
 * **Moonlight Lib**
 * **PlayerAnimator**
 * **Puzzles Lib**
 * **Redirected**
 * **Resourceful Lib**
+* **Resourceful Config**
 * **RunicLib**
 * **Simple Custom Early Loading**
 * **Sinytra Connector**
 * **SmartBrainLib**
 * **Structure Gel API**
+* **Supermartijn642s Core Lib**
 * **TerraBlender**
 * **Thrasherfix**
 * **TxniLib**
