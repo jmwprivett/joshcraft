@@ -356,6 +356,11 @@ file = "mods/dragontweaks-1.0.0.jar"
 hash = "314afd26cb6536ff9c13e9151c059dba77867706c667a6cc466d03b91156a6f1"
 
 [[files]]
+file = "mods/dragontweaks.pw.toml"
+hash = "197710a416faf6af57fa8a75dd8c50f51c808febc41207df8db7d9de4934eaa1"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
 metafile = true
