@@ -218,6 +218,11 @@ file = "mods/besttrident-1.0.0.jar"
 hash = "491ff1f0b062377469032ad0d6968d7bfc18bdf3fffa7b46663f580e8c05fcb8"
 
 [[files]]
+file = "mods/besttrident.pw.toml"
+hash = "9b2e96f76ea25dfad782a0563883c71e42a78b478d1c441fe1e2b3c0e8059854"
+metafile = true
+
+[[files]]
 file = "mods/better-arachnophobia.pw.toml"
 hash = "6454aef5eacb50522a3f5e0562025155b3eeb2ecdaa2582d906eebaab48f94ae"
 metafile = true
