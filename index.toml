@@ -358,21 +358,11 @@ metafile = true
 
 [[files]]
 file = "mods/domesticationinnovation-1.7.1.jar"
-hash = "475e890c6c1cbd70c1c8d38ccc3aa2eb113030959472a6a9d8064ac0033c8f4a"
-
-[[files]]
-file = "mods/domesticationinnovation.pw.toml"
-hash = "9c7e651550ad0de06c19b0c60b411167f4decfee3393ee32d94f94bbcee3e0c8"
-metafile = true
+hash = "195d2934e674f916f1565e1a3c33511266a87f861e4a9d5e7d8a9d93b097cbeb"
 
 [[files]]
 file = "mods/dragontweaks-1.0.0.jar"
-hash = "8e19fc56080af4a3a966d65abf03951ef55e4e83366716dd708ca49e06280599"
-
-[[files]]
-file = "mods/dragontweaks.pw.toml"
-hash = "9de94aea03b3b85fa32a727176313106c6009eb2cd93b5fee91ddd1365d0fb2d"
-metafile = true
+hash = "402c2c7cef1ea7e77e84012e40de3fd5467fc4428112f501cf4bf6d1aa5eb93e"
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
