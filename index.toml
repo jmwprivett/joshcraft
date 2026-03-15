@@ -558,6 +558,11 @@ file = "mods/immersive_furniture-forge-1.20.1.jar"
 hash = "c33db81bdf420ee4c30852d187f54b6a97382fdfc1db2eaf444bf408df321a1b"
 
 [[files]]
+file = "mods/immersivefurniture.pw.toml"
+hash = "8173a320538e3bbd1870a929120f67f0d4c8a6b25cae53c2a3261b419a26dd2e"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
 metafile = true
