@@ -671,6 +671,11 @@ hash = "1cfa08f9a882ee2d8dda5680909b9593fdd0467f1166ed1cd5c6413aa6ec93b5"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "215cb5123319ccd019db178b94ab2ab70db66a11c1b0ae722afefea885396e7a"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "699d7dad652701b9c48bb89ec35e2fb94fff335ab56547029496504b9a2b8530"
 metafile = true
@@ -840,6 +845,11 @@ hash = "4d4b654ae656ed43347dd977b1e96962af835a361c75cd9abf18cb687089801f"
 [[files]]
 file = "mods/thrasherfix.pw.toml"
 hash = "e63d092e1524b99b97429c5360d7a6a7c0fb6274c9685b3fd8083de4db875510"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "171f4c4e48ec408e9bcc6f60751da7a549d04f8e0df2d9375b48ee84fe3387ef"
 metafile = true
 
 [[files]]
