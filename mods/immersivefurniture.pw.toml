@@ -1,8 +1,0 @@
-name = "immersivefurniture"
-filename = "immersive_furniture-forge-0.1.3+1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/immersive_furniture-forge-0.1.3+1.20.1.jar"
-hash-format = "sha256"
-hash = "70877d1e193ec2e889599fcf9bf14121c26f29af5bf796b77644eb2f93c98a9d"
