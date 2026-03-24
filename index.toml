@@ -611,6 +611,11 @@ hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "412233cd17c8195f4f80d67fc34861c086c124ad4aa627cdd4b0b266fc2a6e8b"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
@@ -902,6 +907,11 @@ hash = "926dc21de3c0592dfe1ce0368a3c2dea7d8fe28079529fb34a862d72926d2335"
 [[files]]
 file = "mods/weapon-tweaks.pw.toml"
 hash = "546b3e676965f0b613fc9b4c6d5f78e7d5bc66390cce953ab8289fac67bd13f9"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "be590ea1134e74458850c2708a8c130bb686a879c0524ad4761955a5449b6c40"
 metafile = true
 
 [[files]]
