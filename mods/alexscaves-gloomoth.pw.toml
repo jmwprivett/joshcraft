@@ -1,0 +1,8 @@
+name = "alexscaves_gloomoth"
+filename = "alexscaves_gloomoth_fix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/mods/alexscaves_gloomoth_fix-1.0.0.jar"
+hash-format = "sha256"
+hash = "15fd8be40ebee41fb56f1737c46b1e0ed83a1addfed04024ade217d8f6fdad78"
