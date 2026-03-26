@@ -91,13 +91,8 @@ hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
-file = "mods/alexscaves-gloomoth.pw.toml"
-hash = "8b694d36de5f43afdc7bcc612a1c24519f9b20ab1e154cfe748698a3dc26a1ba"
-metafile = true
-
-[[files]]
 file = "mods/alexscaves_gloomoth_fix-1.0.0.jar"
-hash = "5751a212ac09803ca90134d03a8548d67981616802d70cb4cd07dee28c235232"
+hash = "15fd8be40ebee41fb56f1737c46b1e0ed83a1addfed04024ade217d8f6fdad78"
 
 [[files]]
 file = "mods/alexscavesexemplified.pw.toml"
