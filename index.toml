@@ -611,11 +611,6 @@ hash = "29bb1fed28fcec58813a216e796c368ac1bdc45bc5fede8deb9d58536988e282"
 metafile = true
 
 [[files]]
-file = "mods/lazyyyyy.pw.toml"
-hash = "cf9493fe34868f40e6b2e6f2b50842c3e1999d00695855af80ecfa763b6a1ba4"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
 metafile = true
