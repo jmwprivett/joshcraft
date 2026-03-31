@@ -484,9 +484,8 @@ hash = "180ca9ed174ae6685ef8e692bdeb46e6ac4df42a073fc1f278d24e5b816da18d"
 metafile = true
 
 [[files]]
-file = "mods/fastboot.pw.toml"
-hash = "d29b6a0cc5aa2d6402337f7545e89271b095a9ddab686e921d793afb5d1883ce"
-metafile = true
+file = "mods/fastboot-1.20.x-1.2.jar"
+hash = "66c44b0648a3e3d4115c37593208b85668a97ce012355bad3d33f3cd8142a11f"
 
 [[files]]
 file = "mods/faunify.pw.toml"
