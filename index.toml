@@ -170,15 +170,6 @@ hash = "1aee7c19f4bf62f59396529abaad6474d9cf0f6fb893e11ab11ad98487df3012"
 metafile = true
 
 [[files]]
-file = "mods/arachnid-nyf-compat.pw.toml"
-hash = "d417d3ec53b0ae190ad58f8336ebba930efd54581e69493e182c2878c66a6295"
-metafile = true
-
-[[files]]
-file = "mods/arachnid_nyf_compat-1.0.0.jar"
-hash = "0e4fb0711dcc992a14625e7b060a40d59c972b0f1ab9e8a2949f7454a4111376"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -328,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
 metafile = true
 
 [[files]]
@@ -488,6 +484,11 @@ hash = "180ca9ed174ae6685ef8e692bdeb46e6ac4df42a073fc1f278d24e5b816da18d"
 metafile = true
 
 [[files]]
+file = "mods/fastboot.pw.toml"
+hash = "d29b6a0cc5aa2d6402337f7545e89271b095a9ddab686e921d793afb5d1883ce"
+metafile = true
+
+[[files]]
 file = "mods/faunify.pw.toml"
 hash = "9996be1eae7b5f1e2747ae9bae7f383971a7b5c079beb577ebfef1878d74f877"
 metafile = true
@@ -603,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/lapiz-lazuli-armor-and-tools.pw.toml"
 hash = "29bb1fed28fcec58813a216e796c368ac1bdc45bc5fede8deb9d58536988e282"
+metafile = true
+
+[[files]]
+file = "mods/lazyyyyy.pw.toml"
+hash = "cf9493fe34868f40e6b2e6f2b50842c3e1999d00695855af80ecfa763b6a1ba4"
 metafile = true
 
 [[files]]
