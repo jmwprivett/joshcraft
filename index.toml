@@ -980,6 +980,14 @@ hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
 
 [[files]]
+file = "shaderpacks/iterationT 3.2.0.zip"
+hash = "c0735d5f1de0edca2b1c155dae1c650ddb8d2d04a3ebdd3d2ff74dd7a19db116"
+
+[[files]]
+file = "shaderpacks/iterationT 3.2.0.zip.txt"
+hash = "1c6d82eb2491e05bd0b3e6c2aa6c1f5fc18c788e080a14d360d88324ebf41b9d"
+
+[[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
 hash = "e569821e398ed298d85515bd362828e622185e25abbc7d3faa3ebef0f81359c7"
 metafile = true
