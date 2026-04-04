@@ -1,0 +1,8 @@
+name = "iterationT"
+filename = "iterationT 3.2.0.zip"
+side = "both"
+
+[download]
+url = "https://github.com/jmwprivett/joshcraft/raw/refs/heads/main/shaderpacks/iterationT 3.2.0.zip"
+hash-format = "sha256"
+hash = "c0735d5f1de0edca2b1c155dae1c650ddb8d2d04a3ebdd3d2ff74dd7a19db116"
